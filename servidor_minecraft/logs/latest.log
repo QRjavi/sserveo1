@@ -250,3 +250,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 15:46:37.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Ambush]
 [21Jun2025 15:46:37.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Monster Hunter]
 [21Jun2025 15:47:19.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [A Strange Grave Dust]
+[21Jun2025 15:48:20.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was slain by geovany577
+[21Jun2025 15:48:20.499] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[21Jun2025 15:51:39.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> veni
+[21Jun2025 15:52:02.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [A Strange Grave Dust]
+[21Jun2025 15:55:24.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Amateur Archaeologist]
+[21Jun2025 15:55:47.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Suit Up]
+[21Jun2025 15:57:10.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Diamonds!]
