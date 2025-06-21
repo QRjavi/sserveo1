@@ -3118,3 +3118,41 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [21Jun2025 22:21:32.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.5501889927990646
 [21Jun2025 22:21:32.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.7237132095627317
 [21Jun2025 22:21:33.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.8835978548360117
+[21Jun2025 22:26:11.947] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29116, l='ServerLevel[world]', x=-141.59, y=68.00, z=274.73] died, message: 'Unemployed was slain by bosque41'
+[21Jun2025 22:26:40.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Timed out
+[21Jun2025 22:26:40.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[21Jun2025 22:31:51.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Ashes 'n Bones]
+[21Jun2025 22:34:29.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.19.147.161:60941] logged in with entity id 40054 at (-143.66249767887686, 57.0, 302.05940455804273)
+[21Jun2025 22:34:29.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[21Jun2025 22:34:29.892] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[21Jun2025 22:38:24.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 was kicked for floating too long!
+[21Jun2025 22:38:24.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Flying is not enabled on this server
+[21Jun2025 22:38:24.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[21Jun2025 22:38:46.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.19.147.161:43607] logged in with entity id 41447 at (-141.75816085328748, 66.16610926093821, 307.79380586280416)
+[21Jun2025 22:38:46.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[21Jun2025 22:38:47.000] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[21Jun2025 22:40:33.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Diamonds!]
+[21Jun2025 22:40:41.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> shhhhhhhhhhh
+[21Jun2025 22:51:59.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: You logged in from another location
+[21Jun2025 22:51:59.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[21Jun2025 22:51:59.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:54163] logged in with entity id 47169 at (-142.36272758238096, 63.0, 305.69999998807907)
+[21Jun2025 22:51:59.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[21Jun2025 22:52:00.065] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[21Jun2025 22:52:12.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[21Jun2025 22:52:12.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[21Jun2025 22:52:25.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [A Bone to Pick]
+[21Jun2025 22:55:41.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:41509] logged in with entity id 48510 at (-141.60843612725998, 63.0, 305.69999998807907)
+[21Jun2025 22:55:41.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[21Jun2025 22:55:41.714] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[21Jun2025 22:58:20.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> [x:-129, y:63, z:306, dim:minecraft:overworld]
+[21Jun2025 22:59:43.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[21Jun2025 22:59:43.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[21Jun2025 22:59:51.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi lost connection: Disconnected
+[21Jun2025 22:59:51.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi left the game
+[21Jun2025 23:00:02.040] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b2609e3[id=<null>,name=QR_javi,properties={},legacy=false] (/127.171.215.89:48175) lost connection: Disconnected
+[21Jun2025 23:00:10.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: QR_javi[/127.171.215.89:59429] logged in with entity id 50172 at (-407.37064545786654, 76.0, 14.49262049443942)
+[21Jun2025 23:00:10.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi joined the game
+[21Jun2025 23:00:10.436] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
+[21Jun2025 23:00:35.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:58711] logged in with entity id 50491 at (-117.48729604344514, 67.0, 307.2123112399529)
+[21Jun2025 23:00:35.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[21Jun2025 23:00:35.595] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
