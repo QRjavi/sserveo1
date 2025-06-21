@@ -210,3 +210,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 17:52:36.594] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
 [21Jun2025 17:52:46.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
 [21Jun2025 17:53:01.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
+[21Jun2025 18:10:03.882] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[21Jun2025 18:10:03.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[21Jun2025 18:15:46.799] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e3565d6[id=<null>,name=Uayk_cp,properties={},legacy=false] (/127.78.200.151:46935) lost connection: Disconnected
+[21Jun2025 18:27:37.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[21Jun2025 18:27:37.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[21Jun2025 18:34:25.816] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39dd044c[id=<null>,name=Uayk_cp,properties={},legacy=false] (/127.78.200.151:40363) lost connection: Disconnected
+[21Jun2025 18:36:20.916] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79fed41d[id=<null>,name=Uayk_cp,properties={},legacy=false] (/127.78.200.151:37749) lost connection: Disconnected
