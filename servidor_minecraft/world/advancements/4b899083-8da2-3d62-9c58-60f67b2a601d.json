@@ -798,12 +798,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-21 13:03:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-06-21 12:48:26 +0000",
       "minecraft:zombie": "2025-06-21 12:54:33 +0000"
     },
     "done": false
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-06-21 13:03:10 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
@@ -889,6 +901,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-21 13:03:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-06-21 12:48:28 +0000"
@@ -925,6 +943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-21 13:03:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-06-21 12:48:28 +0000"
@@ -934,6 +958,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-06-21 12:53:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-21 13:03:10 +0000"
     },
     "done": true
   },
@@ -949,6 +979,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-21 13:03:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-21 13:02:07 +0000"
@@ -958,6 +994,12 @@
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_item": "2025-06-21 12:50:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-21 13:03:10 +0000"
     },
     "done": true
   },
@@ -1036,6 +1078,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-06-21 12:48:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-21 13:03:10 +0000"
     },
     "done": true
   },

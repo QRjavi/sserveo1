@@ -179,3 +179,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 12:48:26.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Monster Hunter]
 [21Jun2025 12:48:39.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Getting an Upgrade]
 [21Jun2025 12:49:06.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=64, z=316} BlockPos{x=-89, y=62, z=316}
+[21Jun2025 13:13:05.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Suit Up]
+[21Jun2025 13:13:06.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Ice Bucket Challenge]
+[21Jun2025 13:15:45.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/920, l='ServerLevel[world]', x=-110.21, y=62.62, z=315.00] died, message: 'Nitwit was slain by bosque41'
+[21Jun2025 13:15:45.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Knowledge of Death]
+[21Jun2025 13:15:45.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Neighborhood Brawl]
