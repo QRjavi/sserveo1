@@ -188,3 +188,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 15:11:41.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
 [21Jun2025 15:11:41.978] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
 [21Jun2025 15:12:08.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> [x:-145, y:68, z:276, dim:minecraft:overworld]
+[21Jun2025 15:19:50.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[21Jun2025 15:19:50.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[21Jun2025 15:20:54.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Ashes 'n Bones]
+[21Jun2025 15:21:04.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:39581] logged in with entity id 10500 at (-150.1231517304091, 69.0, 294.18216058099927)
+[21Jun2025 15:21:04.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[21Jun2025 15:21:04.641] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[21Jun2025 15:21:22.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[21Jun2025 15:21:22.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[21Jun2025 15:25:55.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:59803] logged in with entity id 11090 at (-149.66587976746644, 69.0, 291.69999998807907)
+[21Jun2025 15:25:55.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[21Jun2025 15:25:55.230] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[21Jun2025 15:26:26.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Getting an Upgrade]
+[21Jun2025 15:26:39.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Acquire Hardware]
+[21Jun2025 15:27:15.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Isn't It Iron Pick]
