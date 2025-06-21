@@ -236,3 +236,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 18:54:17.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uayk_cp has made the advancement [Sweet Dreams]
 [21Jun2025 18:55:15.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uayk_cp lost connection: Disconnected
 [21Jun2025 18:55:15.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uayk_cp left the game
+[21Jun2025 19:01:30.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[21Jun2025 19:01:30.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
