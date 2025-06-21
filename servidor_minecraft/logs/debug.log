@@ -6310,3 +6310,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 17:43:26.812] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
 [21Jun2025 17:43:28.896] [Server thread/DEBUG] [twilightforest/]: Player geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4) respawned and received items held in storage
 [21Jun2025 17:43:36.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
+[21Jun2025 17:47:34.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 17:47:34.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 17:50:19.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Ice Bucket Challenge]
+[21Jun2025 17:52:14.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was slain by Husk
+[21Jun2025 17:52:14.586] [Server thread/DEBUG] [tombstone/]: A new grave of the player bosque41 was created at position [x:-513, y:92, z:645, dim:minecraft:overworld]
+[21Jun2025 17:52:14.596] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[21Jun2025 17:52:16.031] [Server thread/DEBUG] [twilightforest/]: Player bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d) respawned and received items held in storage
+[21Jun2025 17:52:27.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [Chain Death]
+[21Jun2025 17:52:27.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was slain by Husk
+[21Jun2025 17:52:27.039] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[21Jun2025 17:52:28.470] [Server thread/DEBUG] [twilightforest/]: Player bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d) respawned and received items held in storage
+[21Jun2025 17:52:34.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 17:52:34.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 17:52:36.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was slain by Husk
+[21Jun2025 17:52:36.594] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[21Jun2025 17:52:38.044] [Server thread/DEBUG] [twilightforest/]: Player bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d) respawned and received items held in storage
+[21Jun2025 17:52:46.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
+[21Jun2025 17:53:01.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]

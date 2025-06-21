@@ -200,3 +200,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 17:43:26.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 fell from a high place
 [21Jun2025 17:43:26.812] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
 [21Jun2025 17:43:36.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
+[21Jun2025 17:50:19.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Ice Bucket Challenge]
+[21Jun2025 17:52:14.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was slain by Husk
+[21Jun2025 17:52:14.596] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[21Jun2025 17:52:27.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [Chain Death]
+[21Jun2025 17:52:27.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was slain by Husk
+[21Jun2025 17:52:27.039] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[21Jun2025 17:52:36.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was slain by Husk
+[21Jun2025 17:52:36.594] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[21Jun2025 17:52:46.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
+[21Jun2025 17:53:01.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
