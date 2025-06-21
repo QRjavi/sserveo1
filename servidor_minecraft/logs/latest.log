@@ -238,3 +238,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 18:55:15.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uayk_cp left the game
 [21Jun2025 19:01:30.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
 [21Jun2025 19:01:30.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[21Jun2025 19:15:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Jun2025 19:15:08.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jun2025 19:15:08.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jun2025 19:15:08.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jun2025 19:15:08.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jun2025 19:15:08.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[21Jun2025 19:15:08.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jun2025 19:15:08.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jun2025 19:15:08.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jun2025 19:15:08.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[21Jun2025 19:15:08.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jun2025 19:15:08.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jun2025 19:15:08.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Jun2025 19:15:08.777] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Jun2025 19:15:08.778] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[21Jun2025 19:15:08.782] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[21Jun2025 19:15:08.783] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
