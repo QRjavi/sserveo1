@@ -257,3 +257,51 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 15:55:24.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Amateur Archaeologist]
 [21Jun2025 15:55:47.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Suit Up]
 [21Jun2025 15:57:10.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Diamonds!]
+[21Jun2025 16:01:34.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Ashes 'n Bones]
+[21Jun2025 16:03:55.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Diamonds!]
+[21Jun2025 16:15:07.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=-37, z=65} BlockPos{x=15, y=-35, z=6}
+[21Jun2025 16:15:14.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=-37, z=65} BlockPos{x=15, y=-36, z=5}
+[21Jun2025 16:15:20.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=15, y=-37, z=5}
+[21Jun2025 16:15:20.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=15, y=-36, z=6}
+[21Jun2025 16:15:26.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=12, y=-35, z=-8}
+[21Jun2025 16:15:27.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:28.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=11, y=-36, z=-9}
+[21Jun2025 16:15:28.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:28.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:29.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:29.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=11, y=-35, z=-9}
+[21Jun2025 16:15:30.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=11, y=-36, z=-9}
+[21Jun2025 16:15:30.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=11, y=-36, z=-9}
+[21Jun2025 16:15:32.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:33.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=11, y=-35, z=-9}
+[21Jun2025 16:15:33.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=11, y=-35, z=-9}
+[21Jun2025 16:15:33.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=11, y=-35, z=-9}
+[21Jun2025 16:15:34.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=11, y=-35, z=-9}
+[21Jun2025 16:15:35.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:35.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:36.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:36.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:36.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:36.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:39.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:39.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:39.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:39.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:40.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=12, y=-37, z=-9}
+[21Jun2025 16:15:42.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=11, y=-36, z=-9}
+[21Jun2025 16:15:42.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=11, y=-36, z=-9}
+[21Jun2025 16:15:42.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:42.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:42.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:43.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:43.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=9, y=-35, z=-10}
+[21Jun2025 16:15:44.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:44.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:44.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:44.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:15:45.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-40, z=-3} BlockPos{x=10, y=-35, z=-9}
+[21Jun2025 16:22:08.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Alex's Caves]
+[21Jun2025 16:22:11.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Alex's Caves]
+[21Jun2025 16:22:20.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [It Belongs in a Museum]
+[21Jun2025 16:28:10.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [The Cutest Predator]
+[21Jun2025 16:28:17.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-408, y=-23, z=-117} BlockPos{x=-408, y=-22, z=-119}
