@@ -1,0 +1,57 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2025-06-21 15:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-21 15:11:42 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-06-21 15:11:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-06-21 15:11:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "shrubland": "2025-06-21 15:11:42 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-06-21 15:11:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-06-21 15:11:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2025-06-21 15:11:42 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-06-21 15:11:42 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
