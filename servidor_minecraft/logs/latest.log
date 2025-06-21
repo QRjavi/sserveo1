@@ -178,3 +178,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 14:38:33.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8507ms or 170 ticks behind
 [21Jun2025 14:45:43.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Acquire Hardware]
 [21Jun2025 14:45:50.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Isn't It Iron Pick]
+[21Jun2025 14:47:46.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Not Today, Thank You]
+[21Jun2025 14:52:47.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [What a Deal!]
+[21Jun2025 14:54:09.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [A Seedy Place]
