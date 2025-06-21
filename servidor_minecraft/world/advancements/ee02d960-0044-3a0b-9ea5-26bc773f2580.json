@@ -50,11 +50,13 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-06-21 02:26:54 +0000",
+      "rocky_shrubland": "2025-06-21 23:16:53 +0000",
       "highland": "2025-06-21 03:59:20 +0000",
       "maple_woods": "2025-06-21 03:51:31 +0000",
       "field": "2025-06-21 23:13:37 +0000",
       "overgrown_greens": "2025-06-21 23:13:49 +0000",
       "bog": "2025-06-21 04:00:43 +0000",
+      "forested_field": "2025-06-21 23:25:39 +0000",
       "grassland": "2025-06-21 21:24:55 +0000",
       "glowing_grotto": "2025-06-21 02:35:37 +0000"
     },
@@ -2594,6 +2596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-06-21 23:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-21 23:11:53 +0000"
@@ -2615,6 +2623,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-21 23:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-06-21 23:21:12 +0000"
     },
     "done": true
   },
@@ -2660,6 +2674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-21 23:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-21 23:11:53 +0000"
@@ -2693,6 +2713,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-21 23:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-21 23:23:46 +0000"
     },
     "done": true
   },

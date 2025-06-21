@@ -3179,3 +3179,30 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [21Jun2025 23:15:33.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=541, y=66, z=25} BlockPos{x=541, y=64, z=25}
 [21Jun2025 23:15:46.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> [x:-1017, y:64, z:338, dim:minecraft:overworld]
 [21Jun2025 23:15:53.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21Jun2025 23:16:15.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6477ms or 129 ticks behind
+[21Jun2025 23:16:33.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2862ms or 57 ticks behind
+[21Jun2025 23:17:29.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=839, y=67, z=119} BlockPos{x=838, y=65, z=119}
+[21Jun2025 23:17:29.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=839, y=67, z=119} BlockPos{x=838, y=65, z=119}
+[21Jun2025 23:18:34.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1014, y=61, z=359} BlockPos{x=1013, y=59, z=360}
+[21Jun2025 23:18:34.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1014, y=61, z=359} BlockPos{x=1013, y=59, z=360}
+[21Jun2025 23:18:34.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1014, y=61, z=359} BlockPos{x=1013, y=59, z=360}
+[21Jun2025 23:19:37.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> [x:-991, y:63, z:326, dim:minecraft:overworld]
+[21Jun2025 23:20:21.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=820, y=69, z=275} BlockPos{x=821, y=67, z=276}
+[21Jun2025 23:20:21.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=820, y=69, z=275} BlockPos{x=821, y=67, z=276}
+[21Jun2025 23:20:22.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=815, y=70, z=274} BlockPos{x=814, y=69, z=273}
+[21Jun2025 23:20:22.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=815, y=70, z=274} BlockPos{x=814, y=69, z=273}
+[21Jun2025 23:20:32.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=777, y=77, z=274} BlockPos{x=775, y=76, z=273}
+[21Jun2025 23:20:32.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=777, y=77, z=274} BlockPos{x=775, y=76, z=273}
+[21Jun2025 23:20:33.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=770, y=80, z=275} BlockPos{x=770, y=78, z=274}
+[21Jun2025 23:20:34.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=770, y=80, z=275} BlockPos{x=770, y=78, z=274}
+[21Jun2025 23:21:11.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=702, y=69, z=400} BlockPos{x=701, y=67, z=400}
+[21Jun2025 23:21:11.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=702, y=69, z=400} BlockPos{x=701, y=67, z=400}
+[21Jun2025 23:21:12.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=702, y=69, z=400} BlockPos{x=701, y=67, z=400}
+[21Jun2025 23:21:12.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=702, y=69, z=400} BlockPos{x=701, y=67, z=400}
+[21Jun2025 23:22:59.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[21Jun2025 23:22:59.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[21Jun2025 23:23:13.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:48377] logged in with entity id 65102 at (-143.38843467707338, 70.0, 327.82349489373473)
+[21Jun2025 23:23:13.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[21Jun2025 23:23:13.542] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[21Jun2025 23:24:09.811] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=69, y=36, z=851} but found not block entity block Block{minecraft:water}[level=6] at location
+[21Jun2025 23:24:09.811] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=6] but failed at location BlockPos{x=69, y=36, z=851}
