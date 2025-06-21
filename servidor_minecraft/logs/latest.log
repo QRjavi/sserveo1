@@ -3079,3 +3079,29 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [21Jun2025 22:04:37.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:41489] logged in with entity id 22417 at (43.69999998807907, 49.0, 10.925000011920929)
 [21Jun2025 22:04:37.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
 [21Jun2025 22:04:37.454] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[21Jun2025 22:04:45.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was burnt to a crisp whilst fighting Netherite Monstrosity
+[21Jun2025 22:04:45.255] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[21Jun2025 22:05:02.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 tried to swim in lava
+[21Jun2025 22:05:02.340] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
+[21Jun2025 22:05:11.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[21Jun2025 22:05:11.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[21Jun2025 22:05:30.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 tried to swim in lava
+[21Jun2025 22:05:30.691] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[21Jun2025 22:06:13.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 tried to swim in lava to escape Netherite Monstrosity
+[21Jun2025 22:06:13.189] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[21Jun2025 22:08:06.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was slain by Netherite Monstrosity
+[21Jun2025 22:08:06.494] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[21Jun2025 22:08:58.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[21Jun2025 22:08:58.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[21Jun2025 22:09:13.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:48689] logged in with entity id 28530 at (80.55247417330749, 55.0, 11.263502105529891)
+[21Jun2025 22:09:13.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[21Jun2025 22:09:13.612] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[21Jun2025 22:09:23.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:49413] logged in with entity id 28742 at (-139.5, 68.0, 268.5)
+[21Jun2025 22:09:23.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[21Jun2025 22:09:23.521] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[21Jun2025 22:10:17.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: QR_javi[/127.171.215.89:52899] logged in with entity id 29298 at (-431.1590108462633, 98.0, 433.99765747123087)
+[21Jun2025 22:10:17.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi joined the game
+[21Jun2025 22:10:17.200] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
+[21Jun2025 22:12:47.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Gave 30 experience levels to bosque41]
+[21Jun2025 22:13:15.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Enchanter]
+[21Jun2025 22:14:57.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> mau veni a planar
