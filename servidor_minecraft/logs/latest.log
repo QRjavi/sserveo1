@@ -228,3 +228,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 18:44:57.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uayk_cp has made the advancement [Stone Age]
 [21Jun2025 18:45:32.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uayk_cp has made the advancement [Acquire Hardware]
 [21Jun2025 18:46:03.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uayk_cp has made the advancement [Suit Up]
+[21Jun2025 18:47:17.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uayk_cp lost connection: Disconnected
+[21Jun2025 18:47:17.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uayk_cp left the game
+[21Jun2025 18:49:50.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uayk_cp[/127.78.200.151:40061] logged in with entity id 22195 at (-138.0343312438251, 67.24918707874468, 292.781616368479)
+[21Jun2025 18:49:50.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uayk_cp joined the game
+[21Jun2025 18:49:50.256] [Server thread/INFO] [Jade/]: Syncing config to Uayk_cp (9f5f7ced-7b80-3f6a-99c7-8ed81022ab3b)
+[21Jun2025 18:54:17.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uayk_cp has made the advancement [Sweet Dreams]
+[21Jun2025 18:55:15.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uayk_cp lost connection: Disconnected
+[21Jun2025 18:55:15.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uayk_cp left the game
