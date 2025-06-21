@@ -3861,6 +3861,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-21 21:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-21 21:38:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-06-21 21:47:48 +0000"
@@ -3873,21 +3885,9 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-06-21 21:51:55 +0000"
-    },
-    "done": false
-  },
   "create:recipes/misc/crafting/appliances/chain_from_zinc": {
     "criteria": {
       "has_item": "2025-06-21 21:47:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-21 21:38:47 +0000"
     },
     "done": true
   },
@@ -3897,27 +3897,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-06-21 21:51:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-21 21:38:47 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2025-06-21 21:47:48 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-06-21 21:51:51 +0000"
     },
     "done": true
   },
@@ -3933,15 +3915,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-06-21 21:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-21 21:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-21 21:51:25 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+  "cataclysm:find_soul_black_smith": {
     "criteria": {
-      "has_item": "2025-06-21 21:47:48 +0000"
+      "blacksmith": "2025-06-21 21:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-21 21:51:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-21 21:59:37 +0000"
     },
     "done": true
   },
