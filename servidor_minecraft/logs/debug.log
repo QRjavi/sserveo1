@@ -17752,3 +17752,7 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [22Jun2025 03:15:49.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi left the game
 [22Jun2025 03:16:03.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jun2025 03:16:03.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 03:21:03.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 03:21:03.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 03:26:03.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 03:26:03.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
