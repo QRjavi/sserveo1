@@ -175,3 +175,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 15:14:12.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
 [22Jun2025 15:14:13.360] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
 [22Jun2025 15:14:23.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11456ms or 229 ticks behind
+[22Jun2025 15:27:04.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:47015] logged in with entity id 3920 at (-142.16899339402636, 68.0, 266.64712086519273)
+[22Jun2025 15:27:04.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 15:27:04.196] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 15:29:28.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has completed the challenge [Naga Armorer]
+[22Jun2025 15:30:56.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/897, l='ServerLevel[world]', x=-137.70, y=89.00, z=259.51] died, message: 'Unemployed was slain by Zombie'
