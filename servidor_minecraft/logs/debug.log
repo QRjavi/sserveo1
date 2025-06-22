@@ -10411,3 +10411,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 19:25:13.931] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
 [22Jun2025 19:26:37.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jun2025 19:26:37.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 19:31:37.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 19:31:37.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 19:32:08.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Amateur Archaeologist]
+[22Jun2025 19:36:37.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 19:36:37.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 19:41:38.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 19:41:38.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 19:41:47.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported bosque41 to geovany577]
+[22Jun2025 19:45:21.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Creative Mode]
+[22Jun2025 19:45:32.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
+[22Jun2025 19:45:36.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has reached the goal [Bone Crusher]
+[22Jun2025 19:46:37.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 19:46:37.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 19:48:24.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Alex's Caves]
+[22Jun2025 19:48:30.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Once Upon a Cave]
+[22Jun2025 19:48:35.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [It Belongs in a Museum]
+[22Jun2025 19:50:20.814] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/109363, l='ServerLevel[world]', x=-142.53, y=63.15, z=305.70] died, message: 'Unemployed was slain by Zombie'
+[22Jun2025 19:50:35.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/109362, l='ServerLevel[world]', x=-142.38, y=63.14, z=305.70] died, message: 'Unemployed was slain by Zombie'
+[22Jun2025 19:50:50.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/109360, l='ServerLevel[world]', x=-141.72, y=63.07, z=305.70] died, message: 'Unemployed was slain by Zombie'
+[22Jun2025 19:51:37.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 19:51:37.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 19:56:37.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 19:56:37.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 19:57:43.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> [x:383, y:33, z:1376, dim:minecraft:overworld]
