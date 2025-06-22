@@ -830,6 +830,7 @@
       "minecraft:phantom": "2025-06-21 15:01:38 +0000",
       "minecraft:witch": "2025-06-21 17:00:35 +0000",
       "minecraft:husk": "2025-06-21 17:49:25 +0000",
+      "minecraft:ender_dragon": "2025-06-22 20:30:41 +0000",
       "minecraft:cave_spider": "2025-06-21 17:10:07 +0000",
       "minecraft:piglin": "2025-06-21 22:27:54 +0000",
       "minecraft:silverfish": "2025-06-21 16:03:17 +0000",
@@ -6102,6 +6103,66 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-06-22 20:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-06-22 20:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-22 20:32:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-06-22 20:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-22 20:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-06-22 20:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-22 20:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-22 20:32:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-06-22 20:33:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/flesh": {
+    "criteria": {
+      "has_blood_bucket": "2025-06-22 20:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-06-22 20:36:39 +0000"
     },
     "done": true
   },

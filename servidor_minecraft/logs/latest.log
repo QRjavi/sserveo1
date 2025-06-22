@@ -622,3 +622,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 20:25:45.547] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
 [22Jun2025 20:25:45.547] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
 [22Jun2025 20:25:46.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
+[22Jun2025 20:30:41.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Free the End]
+[22Jun2025 20:31:08.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 was slain by bosque41
+[22Jun2025 20:31:08.452] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
+[22Jun2025 20:31:25.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 20:31:25.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 20:33:17.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [Discreet Search]
+[22Jun2025 20:33:41.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:32947] logged in with entity id 141146 at (101.40587263208674, 49.0, -0.7449017184671507)
+[22Jun2025 20:33:41.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 20:33:41.124] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 20:33:48.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Remote Getaway]
+[22Jun2025 20:36:39.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Remote Getaway]
+[22Jun2025 20:36:47.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Remote Getaway]
+[22Jun2025 20:37:34.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 was kicked for floating too long!
+[22Jun2025 20:37:34.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Flying is not enabled on this server
+[22Jun2025 20:37:34.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 20:37:56.040] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@432cace4[id=<null>,name=bosque41,properties={},legacy=false] (/127.128.85.190:36089) lost connection: Disconnected
+[22Jun2025 20:38:01.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:38861] logged in with entity id 141980 at (-55.63358940601045, -83.07005326646139, -1083.663663414341)
+[22Jun2025 20:38:01.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 20:38:01.844] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 20:38:03.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 fell out of the world
+[22Jun2025 20:38:03.867] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 20:38:06.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[22Jun2025 20:38:06.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 20:38:56.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 20:38:56.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 20:39:11.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:50885] logged in with entity id 142426 at (-140.785345358198, -70.60433171130606, -1560.034708984678)
+[22Jun2025 20:39:11.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 20:39:11.172] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 20:39:12.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 fell out of the world
+[22Jun2025 20:39:12.332] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
+[22Jun2025 20:39:13.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 moved too quickly! 0.0,-20.174084933611766,0.0
