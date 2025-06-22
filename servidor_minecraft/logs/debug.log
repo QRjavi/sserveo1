@@ -8600,3 +8600,36 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 17:44:29.036] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@12568533 into net.minecraft.network.Connection@21d43d1
 [22Jun2025 17:44:29.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
 [22Jun2025 17:44:29.153] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 17:44:49.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=252, y=65, z=143} BlockPos{x=253, y=63, z=143}
+[22Jun2025 17:44:55.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=271, y=64, z=143} BlockPos{x=273, y=62, z=143}
+[22Jun2025 17:44:55.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=271, y=64, z=143} BlockPos{x=273, y=62, z=143}
+[22Jun2025 17:45:10.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=318, y=66, z=144} BlockPos{x=318, y=64, z=144}
+[22Jun2025 17:46:23.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=507, y=68, z=84} BlockPos{x=507, y=66, z=86}
+[22Jun2025 17:46:28.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=534, y=68, z=69} BlockPos{x=533, y=66, z=70}
+[22Jun2025 17:46:28.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=535, y=68, z=69} BlockPos{x=533, y=66, z=70}
+[22Jun2025 17:46:28.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=535, y=68, z=69} BlockPos{x=533, y=66, z=70}
+[22Jun2025 17:46:28.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=535, y=68, z=69} BlockPos{x=533, y=66, z=70}
+[22Jun2025 17:46:28.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=536, y=67, z=70} BlockPos{x=533, y=66, z=70}
+[22Jun2025 17:46:29.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=68, z=66} BlockPos{x=544, y=66, z=65}
+[22Jun2025 17:46:29.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=68, z=66} BlockPos{x=544, y=66, z=65}
+[22Jun2025 17:46:29.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=68, z=66} BlockPos{x=544, y=66, z=65}
+[22Jun2025 17:46:29.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=68, z=66} BlockPos{x=544, y=66, z=65}
+[22Jun2025 17:46:31.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=556, y=69, z=62} BlockPos{x=554, y=66, z=61}
+[22Jun2025 17:46:31.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=556, y=69, z=62} BlockPos{x=554, y=66, z=61}
+[22Jun2025 17:46:38.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=575, y=64, z=36} BlockPos{x=576, y=62, z=36}
+[22Jun2025 17:49:23.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 17:49:23.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 17:51:29.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[22Jun2025 17:51:50.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Jun2025 17:52:07.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[22Jun2025 17:52:29.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22Jun2025 17:52:40.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has completed the challenge [The broken Nether's warmachine]
+[22Jun2025 17:52:53.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Jun2025 17:53:23.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Jun2025 17:53:41.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3016ms or 60 ticks behind
+[22Jun2025 17:53:59.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3056ms or 61 ticks behind
+[22Jun2025 17:54:18.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Jun2025 17:54:35.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[22Jun2025 17:54:48.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 17:54:48.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 17:54:55.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4652ms or 93 ticks behind

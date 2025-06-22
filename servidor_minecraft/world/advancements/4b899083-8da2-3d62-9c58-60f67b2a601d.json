@@ -5965,6 +5965,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-06-22 17:52:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_door": {
     "criteria": {
       "has_gold_door": "2025-06-22 17:32:43 +0000"
