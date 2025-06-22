@@ -15920,3 +15920,15 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [22Jun2025 01:37:03.552] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@70c93ba5 into net.minecraft.network.Connection@2b8387e7
 [22Jun2025 01:37:03.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
 [22Jun2025 01:37:03.623] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 01:40:55.457] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-789, y=14, z=2856}) reached max scan size of 500
+[22Jun2025 01:40:56.250] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-789, y=13, z=2856}) reached max scan size of 500
+[22Jun2025 01:40:57.415] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-790, y=13, z=2856}) reached max scan size of 500
+[22Jun2025 01:40:58.200] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-790, y=14, z=2856}) reached max scan size of 500
+[22Jun2025 01:41:03.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 01:41:03.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 01:42:41.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Take Aim]
+[22Jun2025 01:43:02.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [Time To Even The Scales]
+[22Jun2025 01:43:02.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has reached the goal [Time To Even The Scales]
+[22Jun2025 01:43:02.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has reached the goal [Time To Even The Scales]
+[22Jun2025 01:46:03.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 01:46:03.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
