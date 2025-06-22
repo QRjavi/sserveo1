@@ -20,3 +20,9 @@
 [22Jun2025 00:18:32.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: QR_javi[/127.171.215.89:36393] logged in with entity id 87411 at (-142.66331222866316, 67.9375, 277.72966092073597)
 [22Jun2025 00:18:32.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi joined the game
 [22Jun2025 00:18:32.870] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
+[22Jun2025 00:31:17.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
+[22Jun2025 00:31:26.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi moved too quickly! -987.0388071659149,-38.92159999847412,2104.2383887334345
+[22Jun2025 00:31:37.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3882ms or 77 ticks behind
+[22Jun2025 00:31:38.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [The Silence of the Forest]
+[22Jun2025 00:36:16.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jun2025 00:36:16.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]

@@ -2878,5 +2878,17 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_violet": "2025-06-22 00:35:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-06-22 00:31:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
