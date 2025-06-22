@@ -434,3 +434,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 18:14:51.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:41203] logged in with entity id 63576 at (316.40190028899246, 63.0, 173.25243205967536)
 [22Jun2025 18:14:51.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
 [22Jun2025 18:14:51.570] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 18:15:38.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[22Jun2025 18:15:57.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3473ms or 69 ticks behind
+[22Jun2025 18:16:06.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=71, z=366} BlockPos{x=-99, y=70, z=366}
+[22Jun2025 18:16:06.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=71, z=366} BlockPos{x=-99, y=70, z=366}
+[22Jun2025 18:16:06.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=71, z=366} BlockPos{x=-99, y=70, z=366}
