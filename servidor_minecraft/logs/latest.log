@@ -653,3 +653,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 20:39:12.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 fell out of the world
 [22Jun2025 20:39:12.332] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
 [22Jun2025 20:39:13.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 moved too quickly! 0.0,-20.174084933611766,0.0
+[22Jun2025 20:39:26.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [The Most Useful Key]
+[22Jun2025 20:39:29.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:56939] logged in with entity id 142858 at (-55.63358940601045, -209.87856030820564, -1083.663663414341)
+[22Jun2025 20:39:29.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 20:39:29.312] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 20:39:59.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [The Most Useful Key]
+[22Jun2025 20:40:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has reached the goal [A Fast Comeback]
+[22Jun2025 20:40:05.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [A Fast Comeback]
+[22Jun2025 20:40:12.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 20:40:12.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 20:42:18.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [The City at the End of the Game]
+[22Jun2025 20:43:03.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:50471] logged in with entity id 144256 at (-166.96525742236074, 57.0, -1562.9983569237347)
+[22Jun2025 20:43:03.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 20:43:03.082] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 20:44:05.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Local Brewery]
+[22Jun2025 20:44:32.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [Sky's the Limit]
+[22Jun2025 20:48:29.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 20:48:29.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 20:49:24.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi lost connection: Disconnected
+[22Jun2025 20:49:24.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi left the game
