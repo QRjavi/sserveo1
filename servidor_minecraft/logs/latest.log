@@ -230,3 +230,17 @@
 [22Jun2025 03:04:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [With Fire It Writes]
 [22Jun2025 03:04:57.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [With Fire It Writes]
 [22Jun2025 03:05:21.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [I Can See Forever]
+[22Jun2025 03:12:16.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 moved too quickly! -987.5461727150853,-38.92159999847412,2104.8726396122515
+[22Jun2025 03:13:15.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 03:14:43.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 03:14:43.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 03:15:06.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:37005] logged in with entity id 267625 at (-3376.596995975454, 7.0, 3851.798077304631)
+[22Jun2025 03:15:06.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 03:15:06.319] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 03:15:14.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
+[22Jun2025 03:15:24.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 03:15:24.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 03:15:47.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[22Jun2025 03:15:47.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 03:15:49.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi lost connection: Disconnected
+[22Jun2025 03:15:49.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi left the game
