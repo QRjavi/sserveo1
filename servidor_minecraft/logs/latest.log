@@ -81,3 +81,4 @@
 [22Jun2025 00:50:10.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:33729] logged in with entity id 107989 at (-78.83202983988666, 65.0, 312.02267669682254)
 [22Jun2025 00:50:10.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
 [22Jun2025 00:50:10.697] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 01:01:33.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi moved wrongly!
