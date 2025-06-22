@@ -2897,9 +2897,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap/map": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "has_soap": "2025-06-22 01:15:26 +0000"
+      "has_gravel": "2025-06-22 00:49:21 +0000"
     },
     "done": true
   },
@@ -2909,27 +2909,21 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap_block": {
+  "supplementaries:recipes/flint_block": {
     "criteria": {
-      "has_soap": "2025-06-22 01:15:26 +0000"
+      "has_flint": "2025-06-22 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-22 00:50:34 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-06-22 00:59:56 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/spike": {
-    "criteria": {
-      "has_soap": "2025-06-22 01:15:26 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flint_block": {
-    "criteria": {
-      "has_flint": "2025-06-22 00:50:34 +0000"
     },
     "done": true
   },
@@ -2945,6 +2939,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-22 00:59:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-22 00:59:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-06-22 00:59:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-22 01:05:41 +0000"
@@ -2957,9 +2969,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap/piston": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "has_soap": "2025-06-22 01:15:26 +0000"
+      "has_raw_copper": "2025-06-22 01:05:41 +0000"
     },
     "done": true
   },
@@ -2975,21 +2987,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
+  "supplementaries:recipes/soap/map": {
     "criteria": {
-      "has_gravel": "2025-06-22 00:49:21 +0000"
+      "has_soap": "2025-06-22 01:15:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "supplementaries:recipes/soap_block": {
     "criteria": {
-      "has_gold_nugget": "2025-06-22 00:59:56 +0000"
+      "has_soap": "2025-06-22 01:15:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
+  "supplementaries:recipes/soap/spike": {
     "criteria": {
-      "has_flint": "2025-06-22 00:50:34 +0000"
+      "has_soap": "2025-06-22 01:15:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_soap": "2025-06-22 01:15:26 +0000"
     },
     "done": true
   },
@@ -2999,9 +3017,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/key": {
+  "supplementaries:recipes/soap/globe": {
     "criteria": {
-      "has_gold_nugget": "2025-06-22 00:59:56 +0000"
+      "has_soap": "2025-06-22 01:15:26 +0000"
     },
     "done": true
   },
@@ -3011,21 +3029,183 @@
     },
     "done": true
   },
-  "supplementaries:recipes/daub": {
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
-      "supplementaries:straw": "2025-06-22 00:59:56 +0000"
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/soap/globe": {
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
-      "has_soap": "2025-06-22 01:15:26 +0000"
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
-      "has_raw_copper": "2025-06-22 01:05:41 +0000"
+      "has_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-22 01:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-22 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-22 01:22:02 +0000"
     },
     "done": true
   },

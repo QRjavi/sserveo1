@@ -90,3 +90,12 @@
 [22Jun2025 01:17:10.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: QR_javi[/127.171.215.89:40485] logged in with entity id 134949 at (-129.5, 68.0, 281.5)
 [22Jun2025 01:17:10.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi joined the game
 [22Jun2025 01:17:10.948] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
+[22Jun2025 01:18:39.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 moved too quickly! -987.493454078304,-38.95327914164065,2104.3235400173967
+[22Jun2025 01:23:25.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <QR_javi> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22Jun2025 01:23:26.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[22Jun2025 01:23:26.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 01:23:29.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <QR_javi> tzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22Jun2025 01:23:38.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:44945] logged in with entity id 138123 at (-143.93059083055834, 63.0, 310.98241242067417)
+[22Jun2025 01:23:38.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 01:23:38.744] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 01:23:39.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <QR_javi> perenme

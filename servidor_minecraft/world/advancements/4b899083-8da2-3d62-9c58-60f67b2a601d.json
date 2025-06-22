@@ -4997,9 +4997,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_chicken": "2025-06-22 01:13:53 +0000"
+      "has_red_mushroom": "2025-06-22 00:52:09 +0000"
     },
     "done": true
   },
@@ -5012,12 +5012,6 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-06-22 01:08:48 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap_block": {
-    "criteria": {
-      "has_soap": "2025-06-22 01:15:21 +0000"
     },
     "done": true
   },
@@ -5039,21 +5033,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap/spike": {
-    "criteria": {
-      "has_soap": "2025-06-22 01:15:21 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-06-22 01:08:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-22 01:10:43 +0000"
     },
     "done": true
   },
@@ -5078,12 +5060,6 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-06-22 01:08:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-06-22 01:10:43 +0000"
     },
     "done": true
   },
@@ -5117,18 +5093,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap/piston": {
-    "criteria": {
-      "has_soap": "2025-06-22 01:15:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-06-22 01:13:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-06-22 01:08:48 +0000"
@@ -5153,27 +5117,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-06-22 01:13:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-06-22 01:13:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-06-22 01:08:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-06-22 00:52:09 +0000"
     },
     "done": true
   },
@@ -5186,18 +5132,6 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-06-22 01:08:48 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "forge:eggs": "2025-06-22 01:13:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/blackboard": {
-    "criteria": {
-      "has_soap": "2025-06-22 01:15:21 +0000"
     },
     "done": true
   },
@@ -5231,9 +5165,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-22 01:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-22 01:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-22 01:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-22 01:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-22 01:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-22 01:13:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-06-22 01:13:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap_block": {
+    "criteria": {
+      "has_soap": "2025-06-22 01:15:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/spike": {
+    "criteria": {
+      "has_soap": "2025-06-22 01:15:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_soap": "2025-06-22 01:15:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/blackboard": {
+    "criteria": {
+      "has_soap": "2025-06-22 01:15:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap/globe": {
     "criteria": {
       "has_soap": "2025-06-22 01:15:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/soap": {
+    "criteria": {
+      "stew": "2025-06-22 01:16:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-06-22 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-06-22 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-22 01:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-22 01:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-22 01:17:22 +0000"
     },
     "done": true
   },
