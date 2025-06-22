@@ -5299,6 +5299,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-06-22 02:02:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
     "criteria": {
       "has_item": "2025-06-22 01:40:56 +0000"
@@ -5319,9 +5325,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2025-06-22 02:02:03 +0000",
       "kill_naga": "2025-06-22 01:43:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/pedestal": {
     "criteria": {
@@ -5329,9 +5336,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-06-22 02:02:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
     "criteria": {
       "has_item": "2025-06-22 01:42:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
+    "criteria": {
+      "has_item": "2025-06-22 02:02:52 +0000"
     },
     "done": true
   },
@@ -5377,6 +5396,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-06-22 02:02:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-06-22 01:49:53 +0000"
@@ -5388,6 +5413,12 @@
       "has_item": "2025-06-22 01:42:53 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-06-22 02:02:03 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
@@ -5460,6 +5491,12 @@
       "has_item": "2025-06-22 01:42:19 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-06-22 02:02:03 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
     "criteria": {

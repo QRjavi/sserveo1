@@ -4895,9 +4895,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "trophy": "2025-06-22 02:03:08 +0000",
       "kill_naga": "2025-06-22 01:43:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_naga": {
     "criteria": {
@@ -4910,6 +4911,36 @@
       "has_egg": "2025-06-22 01:47:30 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-06-22 02:03:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
+    "criteria": {
+      "has_item": "2025-06-22 02:04:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-06-22 02:03:08 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-06-22 02:03:08 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-06-22 02:03:08 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
