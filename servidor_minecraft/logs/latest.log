@@ -737,3 +737,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 21:09:40.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has reached the goal [Chain Death]
 [22Jun2025 21:09:40.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 was killed by magic whilst trying to escape Skeleton
 [22Jun2025 21:09:40.544] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
+[22Jun2025 21:10:33.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was burnt to a crisp whilst fighting Skeleton
+[22Jun2025 21:10:34.000] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 21:10:57.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 was kicked for floating too long!
+[22Jun2025 21:10:57.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Flying is not enabled on this server
+[22Jun2025 21:10:57.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 21:11:06.586] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2eaaf414[id=<null>,name=bosque41,properties={},legacy=false] (/127.128.85.190:36567) lost connection: Disconnected
+[22Jun2025 21:11:11.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:39771] logged in with entity id 158746 at (-2766.1199489093456, 79.14998983419157, -5754.008836620536)
+[22Jun2025 21:11:11.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 21:11:11.921] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 21:11:45.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
+[22Jun2025 21:12:24.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
+[22Jun2025 21:12:24.496] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 21:14:11.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 moved too quickly! -9.958891826927356,1.252203340253729,1.503045163070965
+[22Jun2025 21:14:11.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5449ms or 108 ticks behind
+[22Jun2025 21:14:33.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 21:14:33.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 21:14:41.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[22Jun2025 21:14:41.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
