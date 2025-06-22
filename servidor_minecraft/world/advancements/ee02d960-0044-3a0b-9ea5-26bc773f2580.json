@@ -3869,64 +3869,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/brimstone_cluster": {
-    "criteria": {
-      "has_brimstone": "2025-06-22 17:15:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-06-22 17:21:02 +0000",
-      "minecraft:nether_wastes": "2025-06-22 17:16:57 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-06-22 17:22:33 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-06-22 17:15:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2025-06-22 17:03:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-06-22 16:43:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-06-22 17:17:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-22 16:22:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-06-22 17:17:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-06-22 17:17:43 +0000"
     },
     "done": true
   },
@@ -3936,15 +3881,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_basalt": "2025-06-22 17:22:12 +0000"
+      "has_dandelion": "2025-06-22 16:40:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
+  "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
-      "has_quartz": "2025-06-22 17:17:43 +0000"
+      "has_item": "2025-06-22 16:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-22 16:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-06-22 17:03:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-06-22 17:03:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
+    "criteria": {
+      "has_white_lavender": "2025-06-22 17:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-22 17:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-22 17:14:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster": {
+    "criteria": {
+      "has_brimstone": "2025-06-22 17:15:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-22 17:15:28 +0000"
     },
     "done": true
   },
@@ -3960,36 +3953,6 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-06-22 17:21:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-06-22 17:17:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-06-22 17:22:12 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/funeral_theft": {
-    "criteria": {
-      "coded_trigger": "2025-06-22 17:03:16 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-06-22 17:21:43 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/brimstone_fumarole": {
     "criteria": {
       "has_brimstone": "2025-06-22 17:15:28 +0000"
@@ -4002,27 +3965,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-06-22 17:14:42 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-22 17:15:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-06-22 16:40:07 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
-    "criteria": {
-      "has_white_lavender": "2025-06-22 17:12:10 +0000"
     },
     "done": true
   },
@@ -4032,15 +3977,58 @@
     },
     "done": true
   },
-  "supplementaries:recipes/blackboard": {
-    "criteria": {
-      "supplementaries:blackboard_white": "2025-06-22 17:17:43 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-22 17:15:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-22 17:15:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-06-22 17:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-22 17:21:02 +0000",
+      "minecraft:nether_wastes": "2025-06-22 17:16:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-22 17:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-22 17:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-22 17:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-22 17:17:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2025-06-22 17:17:43 +0000"
     },
     "done": true
   },
@@ -4056,15 +4044,33 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "entered_nether": "2025-06-22 17:14:42 +0000"
+      "has_netherrack": "2025-06-22 17:17:47 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_brimstone": "2025-06-22 17:15:28 +0000"
+      "fortress": "2025-06-22 17:21:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-06-22 17:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-22 17:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-22 17:22:12 +0000"
     },
     "done": true
   },
@@ -4074,27 +4080,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-22 17:22:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-06-22 17:22:33 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
-    "criteria": {
-      "has_brimstone": "2025-06-22 17:15:28 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/firefly_jar": {
-    "criteria": {
-      "has_item": "2025-06-22 16:41:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-06-22 17:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-22 17:36:22 +0000"
     },
     "done": true
   },

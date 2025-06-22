@@ -351,3 +351,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 17:21:53.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Into Fire]
 [22Jun2025 17:22:33.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Into Fire]
 [22Jun2025 17:23:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Take Aim]
+[22Jun2025 17:28:12.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 17:28:16.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi was doomed to fall by bosque41
+[22Jun2025 17:28:16.958] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
+[22Jun2025 17:28:29.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 17:28:44.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi lost connection: Disconnected
+[22Jun2025 17:28:44.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi left the game
+[22Jun2025 17:31:16.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:40271] logged in with entity id 37328 at (-140.56778948624466, 68.0, 269.87394158677023)
+[22Jun2025 17:31:16.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 17:31:16.693] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 17:31:21.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 17:31:21.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 17:32:24.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: QR_javi[/127.171.215.89:34999] logged in with entity id 37922 at (6.440942285491771, 68.0, 33.90968127243819)
+[22Jun2025 17:32:24.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi joined the game
+[22Jun2025 17:32:24.623] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
+[22Jun2025 17:36:22.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [What a Deal!]
+[22Jun2025 17:44:29.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:39041] logged in with entity id 43338 at (-140.56778948624466, 68.0, 269.87394158677023)
+[22Jun2025 17:44:29.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 17:44:29.153] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
