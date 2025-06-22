@@ -337,3 +337,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 17:13:10.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-280, y=66, z=-540} BlockPos{x=-280, y=65, z=-538}
 [22Jun2025 17:13:10.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-280, y=66, z=-540} BlockPos{x=-280, y=65, z=-538}
 [22Jun2025 17:13:32.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 17:14:42.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [We Need to Go Deeper]
+[22Jun2025 17:18:51.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [A Terrible Fortress]
+[22Jun2025 17:18:58.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Nightmare Fuel]
+[22Jun2025 17:19:21.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[22Jun2025 17:19:21.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 17:20:12.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:47399] logged in with entity id 33713 at (-260.2517278517268, 60.0, 226.918502599991)
+[22Jun2025 17:20:12.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 17:20:12.805] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 17:21:02.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 17:21:02.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [A Terrible Fortress]
+[22Jun2025 17:21:43.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Nightmare Fuel]
+[22Jun2025 17:21:53.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Into Fire]
+[22Jun2025 17:22:33.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Into Fire]
+[22Jun2025 17:23:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Take Aim]
