@@ -550,3 +550,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 19:50:35.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/109362, l='ServerLevel[world]', x=-142.38, y=63.14, z=305.70] died, message: 'Unemployed was slain by Zombie'
 [22Jun2025 19:50:50.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/109360, l='ServerLevel[world]', x=-141.72, y=63.07, z=305.70] died, message: 'Unemployed was slain by Zombie'
 [22Jun2025 19:57:43.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> [x:383, y:33, z:1376, dim:minecraft:overworld]
+[22Jun2025 20:03:08.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Chattering Teeth]
+[22Jun2025 20:03:20.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
