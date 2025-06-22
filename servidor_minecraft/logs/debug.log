@@ -14312,3 +14312,31 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [22Jun2025 00:04:04.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=72, z=259} BlockPos{x=-154, y=71, z=259}
 [22Jun2025 00:05:57.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jun2025 00:05:57.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 00:09:37.256] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-150, y=71, z=265}) doesn't have enough leaves around top most log
+[22Jun2025 00:09:38.097] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-150, y=71, z=266}) doesn't have enough leaves around top most log
+[22Jun2025 00:09:39.161] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-150, y=70, z=266}) doesn't have enough leaves around top most log
+[22Jun2025 00:09:39.953] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-150, y=69, z=266}) doesn't have enough leaves around top most log
+[22Jun2025 00:09:40.798] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-150, y=68, z=266}) doesn't have enough leaves around top most log
+[22Jun2025 00:10:57.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 00:10:57.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 00:11:12.403] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-147, y=70, z=270}) doesn't have enough leaves around top most log
+[22Jun2025 00:11:13.195] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-147, y=69, z=270}) doesn't have enough leaves around top most log
+[22Jun2025 00:11:13.998] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-147, y=68, z=270}) doesn't have enough leaves around top most log
+[22Jun2025 00:11:14.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> zzzzzzzzzzzzzzzzzzz
+[22Jun2025 00:11:14.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> z
+[22Jun2025 00:11:14.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> z
+[22Jun2025 00:11:15.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> z
+[22Jun2025 00:11:15.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> z
+[22Jun2025 00:11:15.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> z
+[22Jun2025 00:11:15.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> zz
+[22Jun2025 00:11:15.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> z
+[22Jun2025 00:11:15.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> z
+[22Jun2025 00:11:16.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> z
+[22Jun2025 00:11:16.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> z
+[22Jun2025 00:11:16.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> zz
+[22Jun2025 00:11:24.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <QR_javi> zzzzz
+[22Jun2025 00:14:30.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Ice Bucket Challenge]
+[22Jun2025 00:14:56.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi lost connection: Disconnected
+[22Jun2025 00:14:56.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi left the game
+[22Jun2025 00:15:57.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 00:15:57.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
