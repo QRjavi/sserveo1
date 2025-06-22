@@ -16714,3 +16714,28 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [22Jun2025 02:16:03.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Jun2025 02:16:28.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported 3 entities to bosque41]
 [22Jun2025 02:18:52.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Not Today, Thank You]
+[22Jun2025 02:20:04.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Into Fire]
+[22Jun2025 02:20:23.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[22Jun2025 02:20:23.545] [Server thread/DEBUG] [tombstone/]: A new grave of the player QR_javi was created at position [x:-2520, y:-23, z:3386, dim:twilightforest:twilight_forest]
+[22Jun2025 02:20:23.548] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
+[22Jun2025 02:20:33.726] [Server thread/DEBUG] [twilightforest/]: Player QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580) respawned and received items held in storage
+[22Jun2025 02:20:58.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 02:21:03.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 02:21:03.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 02:24:56.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[22Jun2025 02:24:57.384] [Server thread/DEBUG] [tombstone/]: A new grave of the player QR_javi was created at position [x:-2556, y:-23, z:3311, dim:twilightforest:twilight_forest]
+[22Jun2025 02:24:57.387] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
+[22Jun2025 02:25:00.425] [Server thread/DEBUG] [twilightforest/]: Player QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580) respawned and received items held in storage
+[22Jun2025 02:25:11.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 02:26:03.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 02:26:03.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 02:26:38.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 was chopped up by Minotaur
+[22Jun2025 02:26:38.486] [Server thread/DEBUG] [tombstone/]: A new grave of the player geovany577 was created at position [x:-2526, y:-23, z:3350, dim:twilightforest:twilight_forest]
+[22Jun2025 02:26:38.491] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
+[22Jun2025 02:26:40.001] [Server thread/DEBUG] [twilightforest/]: Player geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4) respawned and received items held in storage
+[22Jun2025 02:26:54.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
+[22Jun2025 02:28:26.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi was chopped up by Minotaur
+[22Jun2025 02:28:27.279] [Server thread/DEBUG] [tombstone/]: A new grave of the player QR_javi was created at position [x:-2492, y:-23, z:3343, dim:twilightforest:twilight_forest]
+[22Jun2025 02:28:27.290] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
+[22Jun2025 02:28:28.252] [Server thread/DEBUG] [twilightforest/]: Player QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580) respawned and received items held in storage
+[22Jun2025 02:28:45.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
