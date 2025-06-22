@@ -99,3 +99,27 @@
 [22Jun2025 01:23:38.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
 [22Jun2025 01:23:38.744] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
 [22Jun2025 01:23:39.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <QR_javi> perenme
+[22Jun2025 01:34:03.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 moved too quickly! -987.3562842866332,-38.67647087614428,2104.037281934127
+[22Jun2025 01:34:04.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 moved too quickly! -987.6478793658704,-38.67647087614428,2104.2863338989664
+[22Jun2025 01:34:04.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi moved too quickly! -988.0445446403571,-38.92159999847412,2104.665076792998
+[22Jun2025 01:34:06.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 moved too quickly! 987.1031338426835,39.07840000152588,-2107.112476331119
+[22Jun2025 01:34:26.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[22Jun2025 01:34:26.777] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
+[22Jun2025 01:34:55.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [The Most Useful Key]
+[22Jun2025 01:35:02.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has reached the goal [A Fast Comeback]
+[22Jun2025 01:36:20.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [The Silence of the Forest]
+[22Jun2025 01:36:40.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-981, y=4, z=2563} BlockPos{x=-980, y=3, z=2562}
+[22Jun2025 01:36:40.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-981, y=4, z=2563} BlockPos{x=-980, y=3, z=2562}
+[22Jun2025 01:36:55.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 01:36:55.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 01:36:58.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-979, y=5, z=2562} BlockPos{x=-978, y=3, z=2561}
+[22Jun2025 01:36:59.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-979, y=5, z=2562} BlockPos{x=-978, y=3, z=2561}
+[22Jun2025 01:36:59.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-980, y=5, z=2566} BlockPos{x=-978, y=3, z=2568}
+[22Jun2025 01:36:59.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-980, y=5, z=2566} BlockPos{x=-978, y=3, z=2568}
+[22Jun2025 01:37:00.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-980, y=5, z=2566} BlockPos{x=-978, y=3, z=2568}
+[22Jun2025 01:37:00.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-980, y=5, z=2566} BlockPos{x=-978, y=3, z=2568}
+[22Jun2025 01:37:00.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-980, y=5, z=2566} BlockPos{x=-978, y=3, z=2568}
+[22Jun2025 01:37:00.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-979, y=5, z=2568} BlockPos{x=-980, y=3, z=2570}
+[22Jun2025 01:37:03.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:54835] logged in with entity id 142048 at (-978.826374216573, 4.0, 2559.0840845210364)
+[22Jun2025 01:37:03.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 01:37:03.623] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
