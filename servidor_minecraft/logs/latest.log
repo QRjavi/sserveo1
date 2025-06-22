@@ -181,3 +181,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 15:29:28.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has completed the challenge [Naga Armorer]
 [22Jun2025 15:30:56.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/897, l='ServerLevel[world]', x=-137.70, y=89.00, z=259.51] died, message: 'Unemployed was slain by Zombie'
 [22Jun2025 15:46:02.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/979, l='ServerLevel[world]', x=-154.36, y=73.00, z=257.30] died, message: 'Unemployed was slain by Drowned'
+[22Jun2025 16:01:06.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Amateur Archaeologist]
+[22Jun2025 16:02:25.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/10088, l='ServerLevel[world]', x=153.30, y=70.00, z=381.03] died, message: 'Weaponsmith tried to swim in lava'
+[22Jun2025 16:10:15.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[22Jun2025 16:10:15.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 16:11:30.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:54087] logged in with entity id 13942 at (-109.36131467568036, 62.03499999910593, 306.548319049922)
+[22Jun2025 16:11:30.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 16:11:30.842] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 16:11:35.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/975, l='ServerLevel[world]', x=-224.32, y=72.00, z=303.48] died, message: 'Weaponsmith was slain by Zombie'
