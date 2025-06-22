@@ -287,3 +287,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 16:26:36.405] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
 [22Jun2025 16:26:50.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
 [22Jun2025 16:26:50.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 16:43:52.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-147, y=66, z=287} BlockPos{x=-147, y=65, z=288}
+[22Jun2025 16:52:28.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.3195433404684138
+[22Jun2025 16:52:28.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.6357568456601541
+[22Jun2025 16:52:29.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.713470770794558
+[22Jun2025 16:52:29.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.9265899167986049
+[22Jun2025 16:52:29.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.41017049200334554
+[22Jun2025 16:52:29.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.6369269123772625
+[22Jun2025 16:52:29.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.870534625597216
+[22Jun2025 16:52:29.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 1.110586799899508
