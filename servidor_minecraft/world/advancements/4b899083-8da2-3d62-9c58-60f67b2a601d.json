@@ -5640,9 +5640,76 @@
     },
     "done": true
   },
-  "supplementaries:recipes/statue": {
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
     "criteria": {
-      "has_smooth_stone_slab": "2025-06-22 03:06:36 +0000"
+      "has_trophy": "2025-06-22 02:36:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_meef": "2025-06-22 02:52:45 +0000",
+      "meef_stroganoff": "2025-06-22 02:37:51 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-06-22 02:37:51 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-06-22 02:52:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_wood": {
+    "criteria": {
+      "has_item": "2025-06-22 02:58:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+    "criteria": {
+      "has_item": "2025-06-22 02:58:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-06-22 03:02:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2025-06-22 03:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-22 03:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-22 03:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-22 03:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-22 03:02:57 +0000"
     },
     "done": true
   },
@@ -5657,13 +5724,6 @@
       "has_item": "2025-06-22 03:05:05 +0000"
     },
     "done": true
-  },
-  "twilightforest:twilight_dinner": {
-    "criteria": {
-      "raw_meef": "2025-06-22 02:52:45 +0000",
-      "meef_stroganoff": "2025-06-22 02:37:51 +0000"
-    },
-    "done": false
   },
   "twilightforest:recipes/decorations/wood/dark_fence": {
     "criteria": {
@@ -5683,12 +5743,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-22 03:02:57 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/twilightforest/sign_post_dark": {
     "criteria": {
       "has_item": "2025-06-22 03:05:05 +0000"
@@ -5701,57 +5755,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/dark_wood": {
-    "criteria": {
-      "has_item": "2025-06-22 02:58:19 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map_focus": {
-    "criteria": {
-      "focus": "2025-06-22 03:02:05 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/redstone/wood/dark_door": {
     "criteria": {
       "has_item": "2025-06-22 03:05:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-22 03:02:57 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-06-22 02:36:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-06-22 03:06:36 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/magic_map": {
-    "criteria": {
-      "has_item": "2025-06-22 03:02:05 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_hydra": {
-    "criteria": {
-      "stroganoff": "2025-06-22 02:37:51 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/misc/material/armor_shard_cluster": {
-    "criteria": {
-      "has_item": "2025-06-22 02:52:39 +0000"
     },
     "done": true
   },
@@ -5773,21 +5779,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+  "supplementaries:recipes/statue": {
     "criteria": {
-      "has_polished_andesite": "2025-06-22 03:02:57 +0000"
+      "has_smooth_stone_slab": "2025-06-22 03:06:36 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "has_item": "2025-06-22 02:58:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-22 03:02:57 +0000"
+      "has_stone_slab": "2025-06-22 03:06:36 +0000"
     },
     "done": true
   },
