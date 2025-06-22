@@ -398,3 +398,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 17:54:18.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [22Jun2025 17:54:35.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
 [22Jun2025 17:54:55.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4652ms or 93 ticks behind
+[22Jun2025 17:55:15.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5362ms or 107 ticks behind
+[22Jun2025 17:55:33.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[22Jun2025 17:56:22.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
+[22Jun2025 17:56:29.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
+[22Jun2025 17:56:39.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Jun2025 17:56:43.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Hidden in the Depths]
+[22Jun2025 17:56:59.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported 3 entities to bosque41]
+[22Jun2025 17:57:00.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [The Soul Forge]
+[22Jun2025 17:57:16.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Hidden in the Depths]
+[22Jun2025 17:57:16.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=36, z=25} BlockPos{x=106, y=35, z=25}
+[22Jun2025 17:57:26.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Hidden in the Depths]
+[22Jun2025 17:59:04.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
+[22Jun2025 17:59:33.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Best Friends Forever]
+[22Jun2025 18:00:03.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 18:00:03.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 18:00:06.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:41359] logged in with entity id 53437 at (105.74314453407882, 35.5, 22.04909405277301)
+[22Jun2025 18:00:06.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 18:00:06.928] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 18:00:41.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 18:00:41.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 18:00:44.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:54105] logged in with entity id 53596 at (105.62309592256564, 35.5, 22.189300889991724)
+[22Jun2025 18:00:44.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 18:00:44.761] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 18:00:50.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 18:00:50.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 18:01:37.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 18:01:50.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported bosque41 to bosque41]
+[22Jun2025 18:01:56.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 18:03:17.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:59117] logged in with entity id 55084 at (106.28063106995515, 35.5, 21.641408871583938)
+[22Jun2025 18:03:17.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 18:03:17.468] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 18:05:36.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 18:05:36.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 18:14:51.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:41203] logged in with entity id 63576 at (316.40190028899246, 63.0, 173.25243205967536)
+[22Jun2025 18:14:51.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 18:14:51.570] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
