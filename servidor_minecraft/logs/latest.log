@@ -17,3 +17,6 @@
 [22Jun2025 00:14:30.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Ice Bucket Challenge]
 [22Jun2025 00:14:56.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi lost connection: Disconnected
 [22Jun2025 00:14:56.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi left the game
+[22Jun2025 00:18:32.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: QR_javi[/127.171.215.89:36393] logged in with entity id 87411 at (-142.66331222866316, 67.9375, 277.72966092073597)
+[22Jun2025 00:18:32.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi joined the game
+[22Jun2025 00:18:32.870] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
