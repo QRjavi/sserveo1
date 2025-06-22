@@ -324,6 +324,7 @@
       "apple": "2025-06-21 02:35:06 +0000",
       "pumpkin_pie": "2025-06-21 16:07:41 +0000",
       "bread": "2025-06-21 03:12:50 +0000",
+      "golden_apple": "2025-06-22 01:55:48 +0000",
       "rotten_flesh": "2025-06-21 14:42:27 +0000",
       "suspicious_stew": "2025-06-21 23:53:13 +0000",
       "glow_berries": "2025-06-21 16:27:33 +0000",
@@ -5279,6 +5280,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-06-22 01:49:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-06-22 01:42:19 +0000",
@@ -5298,6 +5305,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/firefly_particle_spawner": {
+    "criteria": {
+      "has_jar": "2025-06-22 01:46:12 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
     "criteria": {
       "has_item": "2025-06-22 01:42:19 +0000"
@@ -5310,15 +5323,33 @@
     },
     "done": false
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-22 01:49:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
     "criteria": {
       "has_item": "2025-06-22 01:42:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-22 01:49:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2025-06-22 01:43:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-22 01:49:53 +0000"
     },
     "done": true
   },
@@ -5346,6 +5377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-22 01:49:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
     "criteria": {
       "has_item": "2025-06-22 01:42:53 +0000"
@@ -5355,6 +5392,18 @@
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
       "has_item": "2025-06-22 01:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-22 01:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-22 01:49:53 +0000"
     },
     "done": true
   },
@@ -5382,6 +5431,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-22 01:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-22 01:49:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
     "criteria": {
       "has_item": "2025-06-22 01:42:19 +0000"
@@ -5403,6 +5464,12 @@
   "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
     "criteria": {
       "has_item": "2025-06-22 01:42:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-22 01:49:53 +0000"
     },
     "done": true
   },

@@ -127,3 +127,28 @@
 [22Jun2025 01:43:02.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [Time To Even The Scales]
 [22Jun2025 01:43:02.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has reached the goal [Time To Even The Scales]
 [22Jun2025 01:43:02.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has reached the goal [Time To Even The Scales]
+[22Jun2025 01:50:24.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi succumbed to the Lich's explosive magic
+[22Jun2025 01:50:24.634] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
+[22Jun2025 01:50:58.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi lost connection: Timed out
+[22Jun2025 01:50:58.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi left the game
+[22Jun2025 01:51:18.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: QR_javi[/127.171.215.89:43257] logged in with entity id 159507 at (-132.5, 68.0, 254.5)
+[22Jun2025 01:51:18.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi joined the game
+[22Jun2025 01:51:18.375] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
+[22Jun2025 01:51:34.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 succumbed to the Lich's explosive magic
+[22Jun2025 01:51:34.638] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 01:52:05.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi lost connection: Disconnected
+[22Jun2025 01:52:05.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi left the game
+[22Jun2025 01:52:14.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 01:52:14.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 01:52:33.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:49285] logged in with entity id 160281 at (-1042.8074995338404, 77.45141116432386, 2562.651117363059)
+[22Jun2025 01:52:33.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 01:52:33.927] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 01:54:16.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 fell from a high place
+[22Jun2025 01:54:16.946] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 01:56:48.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 fell from a high place
+[22Jun2025 01:56:48.217] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
+[22Jun2025 01:56:50.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: QR_javi[/127.171.215.89:36417] logged in with entity id 161473 at (-1114.6280934085023, 29.0, 2389.0431335710473)
+[22Jun2025 01:56:50.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi joined the game
+[22Jun2025 01:56:50.791] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
+[22Jun2025 01:57:34.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Timed out
+[22Jun2025 01:57:34.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
