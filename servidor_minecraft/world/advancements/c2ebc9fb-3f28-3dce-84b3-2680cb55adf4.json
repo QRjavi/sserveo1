@@ -1105,10 +1105,12 @@
     "criteria": {
       "minecraft:pillager": "2025-06-21 17:32:36 +0000",
       "minecraft:skeleton": "2025-06-21 15:50:59 +0000",
+      "minecraft:ghast": "2025-06-22 18:34:43 +0000",
       "minecraft:spider": "2025-06-21 16:07:15 +0000",
       "minecraft:creeper": "2025-06-21 18:00:53 +0000",
       "minecraft:witch": "2025-06-21 15:46:37 +0000",
       "minecraft:husk": "2025-06-21 17:49:25 +0000",
+      "minecraft:piglin": "2025-06-22 18:34:02 +0000",
       "minecraft:enderman": "2025-06-22 17:51:15 +0000",
       "minecraft:zombie": "2025-06-21 15:47:19 +0000",
       "minecraft:drowned": "2025-06-21 22:43:08 +0000"
@@ -5182,6 +5184,48 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-22 17:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-22 18:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-22 18:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-22 18:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-22 18:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-22 18:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-22 18:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-22 18:32:15 +0000"
     },
     "done": true
   },
