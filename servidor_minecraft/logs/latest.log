@@ -189,3 +189,63 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 16:11:30.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
 [22Jun2025 16:11:30.842] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
 [22Jun2025 16:11:35.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/975, l='ServerLevel[world]', x=-224.32, y=72.00, z=303.48] died, message: 'Weaponsmith was slain by Zombie'
+[22Jun2025 16:15:27.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: QR_javi[/127.171.215.89:38033] logged in with entity id 14697 at (-142.257476419632, 68.0, 258.9385337644567)
+[22Jun2025 16:15:27.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi joined the game
+[22Jun2025 16:15:27.424] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
+[22Jun2025 16:15:39.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 was kicked for floating too long!
+[22Jun2025 16:15:39.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[22Jun2025 16:15:39.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 16:15:39.807] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jun2025 16:15:49.262] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@de19e1c[id=<null>,name=bosque41,properties={},legacy=false] (/127.128.85.190:49347) lost connection: Disconnected
+[22Jun2025 16:15:53.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:41243] logged in with entity id 14774 at (-153.4835120412639, 82.1713472788702, 334.87033640831015)
+[22Jun2025 16:15:53.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 16:15:53.758] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 16:15:58.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[22Jun2025 16:15:58.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 16:16:31.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:33065] logged in with entity id 14870 at (-153.4835120412639, 70.16975145747745, 334.87033640831015)
+[22Jun2025 16:16:31.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 16:16:31.772] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 16:16:42.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 was kicked for floating too long!
+[22Jun2025 16:16:42.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Flying is not enabled on this server
+[22Jun2025 16:16:42.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 16:16:47.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:57575] logged in with entity id 14905 at (-149.51273760729492, 83.71080623137298, 322.5212570876295)
+[22Jun2025 16:16:47.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 16:16:47.236] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 16:16:48.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 fell from a high place
+[22Jun2025 16:16:48.778] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 16:16:51.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[22Jun2025 16:16:51.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 16:17:37.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloading!
+[22Jun2025 16:17:37.098] [Server thread/INFO] [Moonlight/]: Generated runtime resources for 1 packs in a total of: 4 ms
+[22Jun2025 16:17:37.103] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[22Jun2025 16:17:37.146] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag supplementaries:tipped_spikes_blacklist as it is missing following references: minecraft:oozing (from supplementaries-1.20-3.1.30.jar), 
+	minecraft:infested (from supplementaries-1.20-3.1.30.jar)
+[22Jun2025 16:17:37.238] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
+[22Jun2025 16:17:38.040] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[22Jun2025 16:17:38.065] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[22Jun2025 16:17:38.079] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[22Jun2025 16:17:38.103] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[22Jun2025 16:17:38.104] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[22Jun2025 16:17:38.107] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[22Jun2025 16:17:38.114] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[22Jun2025 16:17:38.122] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[22Jun2025 16:17:38.135] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[22Jun2025 16:17:38.136] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[22Jun2025 16:17:38.138] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[22Jun2025 16:17:38.142] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[22Jun2025 16:17:38.148] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
+[22Jun2025 16:17:38.172] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[22Jun2025 16:17:38.253] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3797 advancements
+[22Jun2025 16:17:38.257] [Server thread/INFO] [placebo/]: Registered 0 additional recipes.
+[22Jun2025 16:17:38.258] [Server thread/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[22Jun2025 16:17:38.266] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[22Jun2025 16:17:38.270] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[22Jun2025 16:17:38.273] [Server thread/INFO] [Supplementaries/]: Loaded 27 flute songs
+[22Jun2025 16:17:38.275] [Server thread/INFO] [placebo/]: Registered 0 gear_sets.
+[22Jun2025 16:17:41.871] [Server thread/INFO] [Moonlight/]: Applied 7 data villager trades
+[22Jun2025 16:17:41.876] [Server thread/ERROR] [Moonlight/]: Failed to restore original behavior for item: lunch_basket, net.mehvahdjukaar.moonlight.api.util.DispenserHelper$PlaceBlockDispenseBehavior@2ffc6580
+[22Jun2025 16:17:42.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5178ms or 103 ticks behind
+[22Jun2025 16:17:45.585] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b88da32[id=<null>,name=bosque41,properties={},legacy=false] (/127.128.85.190:58145) lost connection: Disconnected
+[22Jun2025 16:17:50.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:39501] logged in with entity id 15132 at (-149.51273760729492, 65.26615251964967, 322.5212570876295)
+[22Jun2025 16:17:50.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 16:17:50.623] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)

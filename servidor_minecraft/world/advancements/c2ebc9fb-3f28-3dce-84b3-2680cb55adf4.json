@@ -5135,15 +5135,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/spruce_banister": {
-    "criteria": {
-      "has_item": "2025-06-22 15:36:26 +0000"
-    },
-    "done": true
-  },
   "twilightforest:naga_armors": {
     "criteria": {
       "armor": "2025-06-22 15:29:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-06-22 15:36:26 +0000"
     },
     "done": true
   },
