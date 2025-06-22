@@ -296,3 +296,44 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 16:52:29.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.6369269123772625
 [22Jun2025 16:52:29.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.870534625597216
 [22Jun2025 16:52:29.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 1.110586799899508
+[22Jun2025 17:01:24.259] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/25311, l='ServerLevel[world]', x=149.67, y=73.25, z=327.94] died, message: 'Cartographer burned to death'
+[22Jun2025 17:03:16.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Cover Me with Diamonds]
+[22Jun2025 17:03:16.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Funeral Theft]
+[22Jun2025 17:07:01.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi was doomed to fall by Zombie
+[22Jun2025 17:07:01.950] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
+[22Jun2025 17:08:48.925] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/798, l='ServerLevel[world]', x=-157.70, y=88.54, z=-139.97] died, message: 'Unemployed was slain by QR_javi'
+[22Jun2025 17:08:53.067] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/797, l='ServerLevel[world]', x=-157.53, y=87.00, z=-141.61] died, message: 'Unemployed was slain by QR_javi'
+[22Jun2025 17:08:55.216] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/796, l='ServerLevel[world]', x=-155.83, y=88.02, z=-138.55] died, message: 'Unemployed was slain by QR_javi'
+[22Jun2025 17:11:20.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=68, z=-362} BlockPos{x=-76, y=66, z=-362}
+[22Jun2025 17:11:27.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=76, z=-384} BlockPos{x=-95, y=74, z=-383}
+[22Jun2025 17:11:33.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=87, z=-391} BlockPos{x=-101, y=86, z=-393}
+[22Jun2025 17:11:33.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=87, z=-391} BlockPos{x=-101, y=86, z=-393}
+[22Jun2025 17:11:33.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=87, z=-391} BlockPos{x=-101, y=86, z=-393}
+[22Jun2025 17:11:33.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=87, z=-391} BlockPos{x=-101, y=86, z=-393}
+[22Jun2025 17:11:33.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=87, z=-391} BlockPos{x=-101, y=86, z=-393}
+[22Jun2025 17:11:35.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=89, z=-394} BlockPos{x=-107, y=88, z=-393}
+[22Jun2025 17:11:40.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-122, y=96, z=-394} BlockPos{x=-124, y=95, z=-394}
+[22Jun2025 17:11:40.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=96, z=-394} BlockPos{x=-124, y=95, z=-394}
+[22Jun2025 17:11:40.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=96, z=-394} BlockPos{x=-124, y=95, z=-394}
+[22Jun2025 17:11:40.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=96, z=-394} BlockPos{x=-124, y=95, z=-394}
+[22Jun2025 17:11:40.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=96, z=-394} BlockPos{x=-124, y=95, z=-394}
+[22Jun2025 17:11:43.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-133, y=101, z=-395} BlockPos{x=-133, y=99, z=-396}
+[22Jun2025 17:11:44.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-135, y=102, z=-397} BlockPos{x=-137, y=100, z=-397}
+[22Jun2025 17:11:44.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-135, y=102, z=-397} BlockPos{x=-137, y=100, z=-397}
+[22Jun2025 17:12:09.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-219, y=110, z=-435} BlockPos{x=-218, y=110, z=-436}
+[22Jun2025 17:12:10.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-220, y=109, z=-435} BlockPos{x=-219, y=109, z=-435}
+[22Jun2025 17:12:10.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-220, y=109, z=-435} BlockPos{x=-219, y=109, z=-435}
+[22Jun2025 17:12:10.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-221, y=109, z=-435} BlockPos{x=-219, y=109, z=-435}
+[22Jun2025 17:12:10.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-223, y=110, z=-435} BlockPos{x=-223, y=108, z=-435}
+[22Jun2025 17:12:10.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-223, y=110, z=-435} BlockPos{x=-223, y=108, z=-435}
+[22Jun2025 17:12:11.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-223, y=110, z=-435} BlockPos{x=-223, y=108, z=-435}
+[22Jun2025 17:12:11.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-224, y=108, z=-434} BlockPos{x=-223, y=108, z=-435}
+[22Jun2025 17:12:11.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-224, y=108, z=-434} BlockPos{x=-223, y=108, z=-435}
+[22Jun2025 17:12:11.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-225, y=109, z=-434} BlockPos{x=-223, y=108, z=-435}
+[22Jun2025 17:12:11.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-225, y=109, z=-434} BlockPos{x=-223, y=108, z=-435}
+[22Jun2025 17:12:11.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-227, y=109, z=-434} BlockPos{x=-227, y=107, z=-434}
+[22Jun2025 17:13:10.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-281, y=67, z=-539} BlockPos{x=-280, y=65, z=-538}
+[22Jun2025 17:13:10.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-281, y=67, z=-539} BlockPos{x=-280, y=65, z=-538}
+[22Jun2025 17:13:10.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-280, y=66, z=-540} BlockPos{x=-280, y=65, z=-538}
+[22Jun2025 17:13:10.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-280, y=66, z=-540} BlockPos{x=-280, y=65, z=-538}
+[22Jun2025 17:13:32.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
