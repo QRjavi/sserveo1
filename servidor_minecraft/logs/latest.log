@@ -180,3 +180,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 15:27:04.196] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
 [22Jun2025 15:29:28.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has completed the challenge [Naga Armorer]
 [22Jun2025 15:30:56.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/897, l='ServerLevel[world]', x=-137.70, y=89.00, z=259.51] died, message: 'Unemployed was slain by Zombie'
+[22Jun2025 15:46:02.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/979, l='ServerLevel[world]', x=-154.36, y=73.00, z=257.30] died, message: 'Unemployed was slain by Drowned'
