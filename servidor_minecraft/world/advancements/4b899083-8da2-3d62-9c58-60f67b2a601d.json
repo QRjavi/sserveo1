@@ -4942,21 +4942,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-06-22 00:40:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-22 00:27:57 +0000"
     },
     "done": true
   },
-  "twilightforest:twilight_hunter": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "kobold": "2025-06-22 00:31:38 +0000"
+      "has_dandelion": "2025-06-22 00:27:58 +0000"
     },
     "done": true
   },
@@ -4966,9 +4960,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "twilightforest:root": {
     "criteria": {
-      "has_dandelion": "2025-06-22 00:27:58 +0000"
+      "make_portal": "2025-06-22 00:31:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-06-22 00:31:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-22 00:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-22 00:40:10 +0000"
     },
     "done": true
   },
@@ -4984,15 +4996,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_iron_backpack": "2025-06-22 00:38:27 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:root": {
-    "criteria": {
-      "make_portal": "2025-06-22 00:31:01 +0000"
+      "has_red_mushroom": "2025-06-22 00:52:09 +0000"
     },
     "done": true
   },

@@ -65,3 +65,19 @@
 [22Jun2025 00:47:18.271] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
 [22Jun2025 00:47:22.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-130, y=75, z=257} BlockPos{x=-124, y=71, z=258}
 [22Jun2025 00:47:22.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-130, y=75, z=257} BlockPos{x=-124, y=71, z=258}
+[22Jun2025 00:47:22.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=70, z=258} BlockPos{x=-124, y=70, z=257}
+[22Jun2025 00:47:22.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=70, z=258} BlockPos{x=-124, y=70, z=257}
+[22Jun2025 00:47:22.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=70, z=258} BlockPos{x=-124, y=70, z=257}
+[22Jun2025 00:47:22.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=70, z=258} BlockPos{x=-124, y=70, z=257}
+[22Jun2025 00:47:22.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=70, z=258} BlockPos{x=-124, y=70, z=257}
+[22Jun2025 00:47:23.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=70, z=258} BlockPos{x=-124, y=70, z=257}
+[22Jun2025 00:47:23.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=70, z=258} BlockPos{x=-124, y=70, z=257}
+[22Jun2025 00:48:24.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 moved too quickly! 5.18700797215277,0.7531999805212024,8.767352822284295
+[22Jun2025 00:48:54.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Timed out
+[22Jun2025 00:48:54.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 00:48:54.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jun2025 00:48:54.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[22Jun2025 00:50:05.694] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@260b02cd[id=<null>,name=bosque41,properties={},legacy=false] (/127.128.85.190:55597) lost connection: Disconnected
+[22Jun2025 00:50:10.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:33729] logged in with entity id 107989 at (-78.83202983988666, 65.0, 312.02267669682254)
+[22Jun2025 00:50:10.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 00:50:10.697] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
