@@ -602,3 +602,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 20:17:22.663] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
 [22Jun2025 20:17:36.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
 [22Jun2025 20:17:36.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 20:19:51.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 20:19:52.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:58871] logged in with entity id 137119 at (-152.99540769058152, 70.0, 330.89179617858684)
+[22Jun2025 20:19:52.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 20:19:52.284] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 20:19:52.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Eye Spy]
+[22Jun2025 20:20:05.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
+[22Jun2025 20:20:05.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Eye Spy]
+[22Jun2025 20:23:24.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[22Jun2025 20:23:24.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 20:23:56.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:37593] logged in with entity id 139180 at (-131.29934864892283, 69.16610926093821, 283.0187536521088)
+[22Jun2025 20:23:56.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 20:23:57.030] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 20:25:43.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [The End?]
+[22Jun2025 20:25:43.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi moved too quickly! -275.1252341500604,12.469036457342085,-1376.3145467118281
+[22Jun2025 20:25:43.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [The End?]
+[22Jun2025 20:25:43.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [The End?]
+[22Jun2025 20:25:44.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 moved too quickly! -276.75863712289464,12.392604549951344,-1376.6317904669313
+[22Jun2025 20:25:45.547] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[22Jun2025 20:25:45.547] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[22Jun2025 20:25:46.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
