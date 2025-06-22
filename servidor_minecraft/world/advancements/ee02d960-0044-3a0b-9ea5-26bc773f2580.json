@@ -382,6 +382,7 @@
       "bread": "2025-06-21 03:17:46 +0000",
       "rotten_flesh": "2025-06-21 03:37:16 +0000",
       "cookie": "2025-06-21 22:49:06 +0000",
+      "glow_berries": "2025-06-22 02:28:18 +0000",
       "golden_carrot": "2025-06-22 00:37:28 +0000"
     },
     "done": false
@@ -3410,6 +3411,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2025-06-22 02:33:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_log": "2025-06-22 02:30:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_axe": "2025-06-22 02:23:05 +0000"
@@ -3434,6 +3447,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-06-22 02:30:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-06-22 02:05:25 +0000"
@@ -3443,6 +3462,12 @@
   "twilightforest:recipes/food/food/smoked_meef": {
     "criteria": {
       "has_food": "2025-06-22 02:17:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
+    "criteria": {
+      "has_item": "2025-06-22 02:33:20 +0000"
     },
     "done": true
   },
@@ -3467,6 +3492,18 @@
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-06-22 01:58:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2025-06-22 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-06-22 02:30:34 +0000"
     },
     "done": true
   },
@@ -3527,6 +3564,12 @@
   "twilightforest:recipes/food/food/campfired_meef": {
     "criteria": {
       "has_food": "2025-06-22 02:17:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-06-22 02:31:39 +0000"
     },
     "done": true
   },

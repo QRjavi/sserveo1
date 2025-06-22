@@ -183,3 +183,28 @@
 [22Jun2025 02:28:26.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi was chopped up by Minotaur
 [22Jun2025 02:28:27.290] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
 [22Jun2025 02:28:45.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 02:29:48.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
+[22Jun2025 02:30:23.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
+[22Jun2025 02:30:36.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has completed the challenge [Breaking the Maze]
+[22Jun2025 02:30:54.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
+[22Jun2025 02:31:02.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi was chopped up by Minotaur
+[22Jun2025 02:31:02.145] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
+[22Jun2025 02:31:15.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 02:31:38.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 02:31:38.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 02:31:39.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[22Jun2025 02:31:39.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 02:31:39.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has reached the goal [Chain Death]
+[22Jun2025 02:31:39.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi blew up
+[22Jun2025 02:31:39.738] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
+[22Jun2025 02:31:48.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:41989] logged in with entity id 195915 at (-2539.9908342638128, -22.0, 3310.762499988079)
+[22Jun2025 02:31:48.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 02:31:48.379] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 02:31:52.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:56085] logged in with entity id 196122 at (-2539.3998998972133, -22.0, 3310.762499988079)
+[22Jun2025 02:31:52.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 02:31:52.718] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 02:32:16.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 02:34:16.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Creative Mode]
+[22Jun2025 02:34:24.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
+[22Jun2025 02:36:21.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Take Aim]
+[22Jun2025 02:37:51.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [Mighty Stroganoff]
