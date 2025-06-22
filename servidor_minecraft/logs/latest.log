@@ -208,3 +208,17 @@
 [22Jun2025 02:34:24.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
 [22Jun2025 02:36:21.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Take Aim]
 [22Jun2025 02:37:51.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [Mighty Stroganoff]
+[22Jun2025 02:46:04.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Creative Mode]
+[22Jun2025 02:46:33.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
+[22Jun2025 02:50:47.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi lost connection: Disconnected
+[22Jun2025 02:50:47.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi left the game
+[22Jun2025 02:55:01.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: QR_javi[/127.171.215.89:49545] logged in with entity id 205703 at (-2042.7352824320012, 5.0, 3395.884542419505)
+[22Jun2025 02:55:02.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi joined the game
+[22Jun2025 02:55:02.042] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
+[22Jun2025 02:55:31.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 02:57:27.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 02:57:28.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi was doomed to fall
+[22Jun2025 02:57:28.993] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
+[22Jun2025 02:57:49.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
+[22Jun2025 02:59:39.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 02:59:39.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game

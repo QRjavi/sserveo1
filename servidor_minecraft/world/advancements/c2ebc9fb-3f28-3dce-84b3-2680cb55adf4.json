@@ -5098,5 +5098,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-22 02:36:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-06-22 02:37:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
