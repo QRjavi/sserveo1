@@ -5110,5 +5110,23 @@
     },
     "done": true
   },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-06-22 03:04:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2025-06-22 03:04:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-06-22 03:05:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
