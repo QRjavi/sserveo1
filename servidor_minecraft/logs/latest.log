@@ -484,3 +484,57 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 18:55:48.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Those Were the Days]
 [22Jun2025 18:56:24.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set geovany577's game mode to Adventure Mode]
 [22Jun2025 18:56:33.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
+[22Jun2025 18:56:57.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set geovany577's game mode to Survival Mode]
+[22Jun2025 18:57:02.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
+[22Jun2025 18:57:17.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
+[22Jun2025 18:57:33.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
+[22Jun2025 18:58:46.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [It Belongs in a Museum]
+[22Jun2025 18:59:05.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[22Jun2025 18:59:22.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[22Jun2025 18:59:27.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi was shot by Skeleton
+[22Jun2025 18:59:27.559] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
+[22Jun2025 19:00:41.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Quite the Renovation]
+[22Jun2025 19:01:27.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 19:01:27.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 19:02:47.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
+[22Jun2025 19:03:46.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
+[22Jun2025 19:04:00.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Chest Slayer]
+[22Jun2025 19:04:53.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:37559] logged in with entity id 97014 at (408.4506853379138, 63.0, -707.0534451296751)
+[22Jun2025 19:04:53.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 19:04:53.103] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 19:07:21.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported bosque41 to geovany577]
+[22Jun2025 19:07:36.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 tried to swim in lava
+[22Jun2025 19:07:36.121] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
+[22Jun2025 19:07:44.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
+[22Jun2025 19:08:53.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=621, y=71, z=-441} BlockPos{x=623, y=71, z=-442}
+[22Jun2025 19:08:53.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=621, y=71, z=-441} BlockPos{x=623, y=71, z=-442}
+[22Jun2025 19:08:53.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=621, y=71, z=-441} BlockPos{x=623, y=71, z=-442}
+[22Jun2025 19:08:53.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=621, y=71, z=-441} BlockPos{x=623, y=71, z=-442}
+[22Jun2025 19:08:53.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=621, y=71, z=-441} BlockPos{x=623, y=71, z=-442}
+[22Jun2025 19:10:57.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> [x:653, y:70, z:-123, dim:minecraft:the_nether]
+[22Jun2025 19:11:26.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=694, y=87, z=-237} BlockPos{x=694, y=85, z=-236}
+[22Jun2025 19:11:31.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[22Jun2025 19:11:31.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 19:11:35.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:60801] logged in with entity id 101251 at (694.3000000119209, 86.0, -221.64679679575156)
+[22Jun2025 19:11:35.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 19:11:35.384] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 19:12:01.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 19:12:01.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 19:12:15.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:47425] logged in with entity id 101382 at (668.0479531177554, 66.0, -126.62605739920075)
+[22Jun2025 19:12:15.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 19:12:15.416] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 19:19:00.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
+[22Jun2025 19:19:00.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
+[22Jun2025 19:19:17.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
+[22Jun2025 19:19:17.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[22Jun2025 19:19:48.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jun2025 19:19:48.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: backup<--[HERE]
+[22Jun2025 19:19:54.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:46699] logged in with entity id 101997 at (642.0838591804297, 65.0, -117.43589256768708)
+[22Jun2025 19:19:54.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
+[22Jun2025 19:19:54.373] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
+[22Jun2025 19:20:03.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jun2025 19:20:03.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save<--[HERE]
+[22Jun2025 19:20:11.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Saved the game]
+[22Jun2025 19:25:13.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:56017] logged in with entity id 103311 at (689.6999999880791, 68.0, -141.69999998807907)
+[22Jun2025 19:25:13.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 19:25:13.931] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
