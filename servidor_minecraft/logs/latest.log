@@ -709,3 +709,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jun2025 20:58:36.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
 [22Jun2025 20:58:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
 [22Jun2025 20:59:31.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [Fortuitous Militia]
+[22Jun2025 21:00:24.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
+[22Jun2025 21:00:24.742] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 21:00:52.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
+[22Jun2025 21:00:52.892] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 21:01:40.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
+[22Jun2025 21:01:40.395] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 21:02:59.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:43345] logged in with entity id 154695 at (-2801.300000011921, 72.0, -5744.580802645655)
+[22Jun2025 21:02:59.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
+[22Jun2025 21:02:59.590] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
+[22Jun2025 21:03:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
+[22Jun2025 21:03:43.999] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 21:05:47.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
+[22Jun2025 21:05:47.542] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 21:06:31.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
+[22Jun2025 21:06:31.393] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 21:07:36.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
+[22Jun2025 21:07:36.742] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 21:08:28.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Where Is The Stone Pen?]
+[22Jun2025 21:08:43.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 was killed by magic whilst trying to escape Skeleton
+[22Jun2025 21:08:43.592] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
+[22Jun2025 21:08:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
+[22Jun2025 21:08:51.342] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 21:09:08.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
+[22Jun2025 21:09:14.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was slain by Skeleton
+[22Jun2025 21:09:14.593] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
+[22Jun2025 21:09:40.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has reached the goal [Chain Death]
+[22Jun2025 21:09:40.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 was killed by magic whilst trying to escape Skeleton
+[22Jun2025 21:09:40.544] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
