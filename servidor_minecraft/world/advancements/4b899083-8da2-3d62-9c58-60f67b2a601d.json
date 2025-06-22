@@ -5274,6 +5274,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2025-06-22 02:11:20 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
     "criteria": {
       "has_item": "2025-06-22 01:42:53 +0000"
@@ -5348,6 +5354,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-06-22 02:11:21 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
     "criteria": {
       "has_item": "2025-06-22 02:02:52 +0000"
@@ -5375,6 +5387,12 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_door": {
     "criteria": {
       "has_item": "2025-06-22 01:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-22 02:10:05 +0000"
     },
     "done": true
   },
@@ -5504,9 +5522,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-22 02:10:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-06-22 01:49:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-06-22 02:06:32 +0000"
     },
     "done": true
   },
@@ -5519,6 +5549,12 @@
   "supplementaries:recipes/decorations/twilightforest/sign_post_twilight_oak": {
     "criteria": {
       "has_item": "2025-06-22 01:42:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2025-06-22 02:06:27 +0000"
     },
     "done": true
   },

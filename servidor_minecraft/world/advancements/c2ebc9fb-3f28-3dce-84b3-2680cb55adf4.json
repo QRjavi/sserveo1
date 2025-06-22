@@ -4912,6 +4912,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-06-22 02:10:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-06-22 02:10:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/lich_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-06-22 02:03:08 +0000"
@@ -4924,17 +4936,59 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-06-22 02:11:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-06-22 02:11:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-06-22 02:11:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
       "kill_lich": "2025-06-22 02:03:08 +0000"
     },
     "done": false
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "naga": "2025-06-22 02:10:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-06-22 02:10:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_labyrinth": {
     "criteria": {
       "kill_lich": "2025-06-22 02:03:08 +0000"
     },
     "done": false
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-06-22 02:10:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-06-22 02:10:55 +0000"
+    },
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
