@@ -184,3 +184,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jun2025 17:48:05.459] [Worker-Main-19/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.976655f,range:8,source:{pos:[I;-242,-20,603],type:"minecraft:block"}}]
 [23Jun2025 17:48:12.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi moved too quickly! 5.961791740075228,-0.3059541903400458,-16.404871695662223
 [23Jun2025 17:50:01.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi moved too quickly! -10.886022178067876,-4.148306713381132,14.744113532784695
+[23Jun2025 18:14:53.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Cobweb Entanglement]
