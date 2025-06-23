@@ -185,3 +185,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jun2025 17:48:12.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi moved too quickly! 5.961791740075228,-0.3059541903400458,-16.404871695662223
 [23Jun2025 17:50:01.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi moved too quickly! -10.886022178067876,-4.148306713381132,14.744113532784695
 [23Jun2025 18:14:53.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Cobweb Entanglement]
+[23Jun2025 18:23:57.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi fell from a high place
+[23Jun2025 18:23:57.517] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
