@@ -1,50 +1,49 @@
-[22Jun2025 15:12:50.150] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[22Jun2025 15:12:50.154] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[22Jun2025 15:12:51.857] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[22Jun2025 15:12:51.931] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/sserveo1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[22Jun2025 15:12:52.358] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sserveo1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[22Jun2025 15:12:52.362] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sserveo1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Jun2025 15:12:52.363] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sserveo1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Jun2025 15:12:52.365] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sserveo1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Jun2025 15:12:52.698] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[22Jun2025 15:12:55.744] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[22Jun2025 15:12:56.221] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[22Jun2025 15:12:57.035] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[22Jun2025 15:12:57.052] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[22Jun2025 15:12:58.347] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
-[22Jun2025 15:12:58.925] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22Jun2025 15:13:03.547] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[22Jun2025 15:13:03.548] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[22Jun2025 15:13:03.568] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[22Jun2025 15:13:03.569] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[22Jun2025 15:13:07.950] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[23Jun2025 07:33:48.364] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[23Jun2025 07:33:48.369] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[23Jun2025 07:33:49.800] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[23Jun2025 07:33:49.852] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/sserveo1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[23Jun2025 07:33:50.161] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sserveo1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[23Jun2025 07:33:50.164] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sserveo1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Jun2025 07:33:50.165] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sserveo1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Jun2025 07:33:50.166] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sserveo1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Jun2025 07:33:50.379] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[23Jun2025 07:33:53.051] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23Jun2025 07:33:53.192] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[23Jun2025 07:33:53.862] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jun2025 07:33:53.880] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jun2025 07:33:54.854] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
+[23Jun2025 07:33:55.174] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23Jun2025 07:33:58.803] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jun2025 07:33:58.804] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jun2025 07:33:58.820] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jun2025 07:33:58.821] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jun2025 07:34:02.269] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[22Jun2025 15:13:09.234] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[22Jun2025 15:13:09.240] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[22Jun2025 15:13:09.248] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[22Jun2025 15:13:09.249] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[22Jun2025 15:13:09.250] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[22Jun2025 15:13:09.253] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[22Jun2025 15:13:09.256] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[22Jun2025 15:13:09.261] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[22Jun2025 15:13:09.369] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[22Jun2025 15:13:09.370] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[22Jun2025 15:13:10.468] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[22Jun2025 15:13:11.422] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[22Jun2025 15:13:18.292] [main/INFO] [Moonlight/]: Initialized block sets in 28ms
-[22Jun2025 15:13:19.259] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[22Jun2025 15:13:19.794] [main/INFO] [journeymap/]: Initializing Packet Registries
-[22Jun2025 15:13:19.827] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[22Jun2025 15:13:19.919] [main/INFO] [Moonlight/]: Initialized color sets in 49ms
-[22Jun2025 15:13:19.924] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[22Jun2025 15:13:19.925] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[22Jun2025 15:13:19.926] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[22Jun2025 15:13:19.926] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[22Jun2025 15:13:19.927] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[22Jun2025 15:13:19.927] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[22Jun2025 15:13:19.927] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[22Jun2025 15:13:20.060] [main/INFO] [Supplementaries/]: Finished mod setup in: [49, 6, 0, 0, 0, 0, 38, 7, 1] ms
-[22Jun2025 15:13:20.107] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[23Jun2025 07:34:03.064] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[23Jun2025 07:34:03.065] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[23Jun2025 07:34:03.068] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[23Jun2025 07:34:03.075] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[23Jun2025 07:34:03.078] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[23Jun2025 07:34:03.079] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[23Jun2025 07:34:03.081] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[23Jun2025 07:34:03.082] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[23Jun2025 07:34:03.424] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[23Jun2025 07:34:03.424] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[23Jun2025 07:34:04.079] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[23Jun2025 07:34:05.061] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[23Jun2025 07:34:10.249] [main/INFO] [Moonlight/]: Initialized block sets in 18ms
+[23Jun2025 07:34:11.000] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[23Jun2025 07:34:11.279] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[23Jun2025 07:34:11.357] [main/INFO] [journeymap/]: Initializing Packet Registries
+[23Jun2025 07:34:11.436] [main/INFO] [Moonlight/]: Initialized color sets in 43ms
+[23Jun2025 07:34:11.440] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[23Jun2025 07:34:11.441] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[23Jun2025 07:34:11.441] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[23Jun2025 07:34:11.441] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[23Jun2025 07:34:11.441] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[23Jun2025 07:34:11.441] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[23Jun2025 07:34:11.442] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[23Jun2025 07:34:11.528] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -59,32 +58,33 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[22Jun2025 15:13:20.109] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[22Jun2025 15:13:20.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[22Jun2025 15:13:20.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22Jun2025 15:13:20.461] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[22Jun2025 15:13:20.477] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[22Jun2025 15:13:20.478] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[22Jun2025 15:13:20.480] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[22Jun2025 15:13:20.494] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[22Jun2025 15:13:20.504] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[22Jun2025 15:13:20.508] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
-[22Jun2025 15:13:20.512] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[22Jun2025 15:13:20.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[22Jun2025 15:13:20.516] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[22Jun2025 15:13:20.686] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[22Jun2025 15:13:20.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[22Jun2025 15:13:20.936] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
-[22Jun2025 15:13:20.936] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[22Jun2025 15:13:20.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.0 Target: null
-[22Jun2025 15:13:20.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[22Jun2025 15:13:20.983] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[22Jun2025 15:13:20.983] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[22Jun2025 15:13:21.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.30 Target: null
-[22Jun2025 15:13:21.003] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[22Jun2025 15:13:21.015] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.8
-[22Jun2025 15:13:21.017] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[22Jun2025 15:13:21.043] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[23Jun2025 07:34:11.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[23Jun2025 07:34:11.570] [main/INFO] [Supplementaries/]: Finished mod setup in: [27, 2, 0, 0, 0, 0, 12, 6, 1] ms
+[23Jun2025 07:34:11.669] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[23Jun2025 07:34:11.681] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[23Jun2025 07:34:11.682] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[23Jun2025 07:34:11.683] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[23Jun2025 07:34:11.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.3 Target: null
+[23Jun2025 07:34:11.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Jun2025 07:34:11.704] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[23Jun2025 07:34:11.712] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[23Jun2025 07:34:11.715] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[23Jun2025 07:34:11.717] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[23Jun2025 07:34:11.877] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[23Jun2025 07:34:11.878] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[23Jun2025 07:34:12.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[23Jun2025 07:34:12.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[23Jun2025 07:34:12.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
+[23Jun2025 07:34:12.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[23Jun2025 07:34:12.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.0 Target: null
+[23Jun2025 07:34:12.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[23Jun2025 07:34:12.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[23Jun2025 07:34:12.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[23Jun2025 07:34:12.335] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.30 Target: null
+[23Jun2025 07:34:12.335] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[23Jun2025 07:34:12.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.8
+[23Jun2025 07:34:12.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[23Jun2025 07:34:12.373] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -99,659 +99,77 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[22Jun2025 15:13:28.323] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22Jun2025 15:13:34.219] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sserveo1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23181!/assets/.mcassetsroot' uses unexpected schema
-[22Jun2025 15:13:34.221] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sserveo1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23181!/data/.mcassetsroot' uses unexpected schema
-[22Jun2025 15:13:34.368] [main/INFO] [com.simibubi.create.Create/]: Created 449 recipes which will be injected into the game
-[22Jun2025 15:13:34.387] [main/INFO] [com.simibubi.create.Create/]: Created 5 tags which will be injected into the game
-[22Jun2025 15:13:34.620] [main/INFO] [Moonlight/]: Generated runtime resources for 1 packs in a total of: 52 ms
-[22Jun2025 15:13:37.643] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[22Jun2025 15:13:37.773] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag supplementaries:tipped_spikes_blacklist as it is missing following references: minecraft:oozing (from supplementaries-1.20-3.1.30.jar), 
+[23Jun2025 07:34:17.416] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Jun2025 07:34:22.111] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sserveo1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23181!/assets/.mcassetsroot' uses unexpected schema
+[23Jun2025 07:34:22.111] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sserveo1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23181!/data/.mcassetsroot' uses unexpected schema
+[23Jun2025 07:34:22.239] [main/INFO] [com.simibubi.create.Create/]: Created 449 recipes which will be injected into the game
+[23Jun2025 07:34:22.253] [main/INFO] [com.simibubi.create.Create/]: Created 5 tags which will be injected into the game
+[23Jun2025 07:34:22.386] [main/INFO] [Moonlight/]: Generated runtime resources for 1 packs in a total of: 35 ms
+[23Jun2025 07:34:24.696] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[23Jun2025 07:34:24.791] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
+[23Jun2025 07:34:24.833] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag supplementaries:tipped_spikes_blacklist as it is missing following references: minecraft:oozing (from supplementaries-1.20-3.1.30.jar), 
 	minecraft:infested (from supplementaries-1.20-3.1.30.jar)
-[22Jun2025 15:13:37.866] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
-[22Jun2025 15:13:39.581] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[22Jun2025 15:13:39.618] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[22Jun2025 15:13:39.635] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[22Jun2025 15:13:39.668] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[22Jun2025 15:13:39.669] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[22Jun2025 15:13:39.677] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[22Jun2025 15:13:39.692] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[22Jun2025 15:13:39.715] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[22Jun2025 15:13:39.751] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[22Jun2025 15:13:39.758] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[22Jun2025 15:13:39.761] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[22Jun2025 15:13:39.771] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[22Jun2025 15:13:39.781] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
-[22Jun2025 15:13:39.889] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[22Jun2025 15:13:40.060] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3797 advancements
-[22Jun2025 15:13:40.073] [main/INFO] [placebo/]: Registered 0 additional recipes.
-[22Jun2025 15:13:40.079] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[22Jun2025 15:13:40.109] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[22Jun2025 15:13:40.122] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[22Jun2025 15:13:40.134] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
-[22Jun2025 15:13:40.154] [main/INFO] [placebo/]: Registered 0 gear_sets.
-[22Jun2025 15:13:45.513] [main/INFO] [Moonlight/]: Applied 7 data villager trades
-[22Jun2025 15:13:45.570] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
-[22Jun2025 15:13:45.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[22Jun2025 15:13:45.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22Jun2025 15:13:45.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22Jun2025 15:13:45.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22Jun2025 15:13:46.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22Jun2025 15:13:46.126] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[22Jun2025 15:13:46.270] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22Jun2025 15:13:46.271] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[22Jun2025 15:13:46.271] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22Jun2025 15:13:46.272] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[22Jun2025 15:13:46.291] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22Jun2025 15:13:46.543] [Server thread/INFO] [Framework/]: Loading server configs...
-[22Jun2025 15:13:46.568] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[22Jun2025 15:13:47.178] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[22Jun2025 15:13:47.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22Jun2025 15:13:56.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22Jun2025 15:14:00.258] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:00.294] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:00.322] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:00.347] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:00.351] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:00.370] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:00.377] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:00.386] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:02.516] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:02.520] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:02.524] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:02.533] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:02.691] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:03.198] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:03.687] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:04.186] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:04.685] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:05.185] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 15:14:05.684] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[22Jun2025 15:14:06.184] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[22Jun2025 15:14:06.297] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9614 ms
-[22Jun2025 15:14:06.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.010s)! For help, type "help"
-[22Jun2025 15:14:06.368] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[22Jun2025 15:14:12.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:49003] logged in with entity id 857 at (-142.00276304254143, 68.0, 259.51924450877266)
-[22Jun2025 15:14:12.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
-[22Jun2025 15:14:13.360] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
-[22Jun2025 15:14:23.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11456ms or 229 ticks behind
-[22Jun2025 15:27:04.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:47015] logged in with entity id 3920 at (-142.16899339402636, 68.0, 266.64712086519273)
-[22Jun2025 15:27:04.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 15:27:04.196] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 15:29:28.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has completed the challenge [Naga Armorer]
-[22Jun2025 15:30:56.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/897, l='ServerLevel[world]', x=-137.70, y=89.00, z=259.51] died, message: 'Unemployed was slain by Zombie'
-[22Jun2025 15:46:02.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/979, l='ServerLevel[world]', x=-154.36, y=73.00, z=257.30] died, message: 'Unemployed was slain by Drowned'
-[22Jun2025 16:01:06.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Amateur Archaeologist]
-[22Jun2025 16:02:25.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/10088, l='ServerLevel[world]', x=153.30, y=70.00, z=381.03] died, message: 'Weaponsmith tried to swim in lava'
-[22Jun2025 16:10:15.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
-[22Jun2025 16:10:15.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
-[22Jun2025 16:11:30.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:54087] logged in with entity id 13942 at (-109.36131467568036, 62.03499999910593, 306.548319049922)
-[22Jun2025 16:11:30.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
-[22Jun2025 16:11:30.842] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
-[22Jun2025 16:11:35.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/975, l='ServerLevel[world]', x=-224.32, y=72.00, z=303.48] died, message: 'Weaponsmith was slain by Zombie'
-[22Jun2025 16:15:27.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: QR_javi[/127.171.215.89:38033] logged in with entity id 14697 at (-142.257476419632, 68.0, 258.9385337644567)
-[22Jun2025 16:15:27.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi joined the game
-[22Jun2025 16:15:27.424] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
-[22Jun2025 16:15:39.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 was kicked for floating too long!
-[22Jun2025 16:15:39.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
-[22Jun2025 16:15:39.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
-[22Jun2025 16:15:39.807] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[22Jun2025 16:15:49.262] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@de19e1c[id=<null>,name=bosque41,properties={},legacy=false] (/127.128.85.190:49347) lost connection: Disconnected
-[22Jun2025 16:15:53.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:41243] logged in with entity id 14774 at (-153.4835120412639, 82.1713472788702, 334.87033640831015)
-[22Jun2025 16:15:53.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
-[22Jun2025 16:15:53.758] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
-[22Jun2025 16:15:58.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
-[22Jun2025 16:15:58.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
-[22Jun2025 16:16:31.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:33065] logged in with entity id 14870 at (-153.4835120412639, 70.16975145747745, 334.87033640831015)
-[22Jun2025 16:16:31.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
-[22Jun2025 16:16:31.772] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
-[22Jun2025 16:16:42.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 was kicked for floating too long!
-[22Jun2025 16:16:42.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Flying is not enabled on this server
-[22Jun2025 16:16:42.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
-[22Jun2025 16:16:47.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:57575] logged in with entity id 14905 at (-149.51273760729492, 83.71080623137298, 322.5212570876295)
-[22Jun2025 16:16:47.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
-[22Jun2025 16:16:47.236] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
-[22Jun2025 16:16:48.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 fell from a high place
-[22Jun2025 16:16:48.778] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 16:16:51.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
-[22Jun2025 16:16:51.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
-[22Jun2025 16:17:37.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloading!
-[22Jun2025 16:17:37.098] [Server thread/INFO] [Moonlight/]: Generated runtime resources for 1 packs in a total of: 4 ms
-[22Jun2025 16:17:37.103] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[22Jun2025 16:17:37.146] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag supplementaries:tipped_spikes_blacklist as it is missing following references: minecraft:oozing (from supplementaries-1.20-3.1.30.jar), 
-	minecraft:infested (from supplementaries-1.20-3.1.30.jar)
-[22Jun2025 16:17:37.238] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
-[22Jun2025 16:17:38.040] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[22Jun2025 16:17:38.065] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[22Jun2025 16:17:38.079] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[22Jun2025 16:17:38.103] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[22Jun2025 16:17:38.104] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[22Jun2025 16:17:38.107] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[22Jun2025 16:17:38.114] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[22Jun2025 16:17:38.122] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[22Jun2025 16:17:38.135] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[22Jun2025 16:17:38.136] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[22Jun2025 16:17:38.138] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[22Jun2025 16:17:38.142] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[22Jun2025 16:17:38.148] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
-[22Jun2025 16:17:38.172] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[22Jun2025 16:17:38.253] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3797 advancements
-[22Jun2025 16:17:38.257] [Server thread/INFO] [placebo/]: Registered 0 additional recipes.
-[22Jun2025 16:17:38.258] [Server thread/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[22Jun2025 16:17:38.266] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[22Jun2025 16:17:38.270] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[22Jun2025 16:17:38.273] [Server thread/INFO] [Supplementaries/]: Loaded 27 flute songs
-[22Jun2025 16:17:38.275] [Server thread/INFO] [placebo/]: Registered 0 gear_sets.
-[22Jun2025 16:17:41.871] [Server thread/INFO] [Moonlight/]: Applied 7 data villager trades
-[22Jun2025 16:17:41.876] [Server thread/ERROR] [Moonlight/]: Failed to restore original behavior for item: lunch_basket, net.mehvahdjukaar.moonlight.api.util.DispenserHelper$PlaceBlockDispenseBehavior@2ffc6580
-[22Jun2025 16:17:42.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5178ms or 103 ticks behind
-[22Jun2025 16:17:45.585] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b88da32[id=<null>,name=bosque41,properties={},legacy=false] (/127.128.85.190:58145) lost connection: Disconnected
-[22Jun2025 16:17:50.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:39501] logged in with entity id 15132 at (-149.51273760729492, 65.26615251964967, 322.5212570876295)
-[22Jun2025 16:17:50.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
-[22Jun2025 16:17:50.623] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
-[22Jun2025 16:25:57.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz}zzzzzzzzz
-[22Jun2025 16:25:59.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[22Jun2025 16:26:01.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[22Jun2025 16:26:04.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[22Jun2025 16:26:07.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[22Jun2025 16:26:09.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[22Jun2025 16:26:11.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[22Jun2025 16:26:14.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[22Jun2025 16:26:16.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[22Jun2025 16:26:16.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> z
-[22Jun2025 16:26:18.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzzzzzz
-[22Jun2025 16:26:19.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzz
-[22Jun2025 16:26:20.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzzzzzz
-[22Jun2025 16:26:21.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzzzzz
-[22Jun2025 16:26:22.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzz
-[22Jun2025 16:26:23.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzz
-[22Jun2025 16:26:24.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzz
-[22Jun2025 16:26:25.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zzzzzzzzzzz
-[22Jun2025 16:26:26.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> z
-[22Jun2025 16:26:26.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> z
-[22Jun2025 16:26:27.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> z
-[22Jun2025 16:26:27.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> z
-[22Jun2025 16:26:27.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> z
-[22Jun2025 16:26:27.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> zz
-[22Jun2025 16:26:27.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> z
-[22Jun2025 16:26:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> z
-[22Jun2025 16:26:28.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> z
-[22Jun2025 16:26:28.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> z
-[22Jun2025 16:26:28.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> z
-[22Jun2025 16:26:28.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> z
-[22Jun2025 16:26:28.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <geovany577> z
-[22Jun2025 16:26:28.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Kicked for spamming
-[22Jun2025 16:26:28.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 16:26:36.319] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:43447] logged in with entity id 16669 at (-142.5, 68.0, 254.5)
-[22Jun2025 16:26:36.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 16:26:36.405] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 16:26:50.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 16:26:50.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 16:43:52.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-147, y=66, z=287} BlockPos{x=-147, y=65, z=288}
-[22Jun2025 16:52:28.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.3195433404684138
-[22Jun2025 16:52:28.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.6357568456601541
-[22Jun2025 16:52:29.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.713470770794558
-[22Jun2025 16:52:29.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.9265899167986049
-[22Jun2025 16:52:29.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.41017049200334554
-[22Jun2025 16:52:29.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.6369269123772625
-[22Jun2025 16:52:29.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 0.870534625597216
-[22Jun2025 16:52:29.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bosque41) moved wrongly! 1.110586799899508
-[22Jun2025 17:01:24.259] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/25311, l='ServerLevel[world]', x=149.67, y=73.25, z=327.94] died, message: 'Cartographer burned to death'
-[22Jun2025 17:03:16.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Cover Me with Diamonds]
-[22Jun2025 17:03:16.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Funeral Theft]
-[22Jun2025 17:07:01.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi was doomed to fall by Zombie
-[22Jun2025 17:07:01.950] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
-[22Jun2025 17:08:48.925] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/798, l='ServerLevel[world]', x=-157.70, y=88.54, z=-139.97] died, message: 'Unemployed was slain by QR_javi'
-[22Jun2025 17:08:53.067] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/797, l='ServerLevel[world]', x=-157.53, y=87.00, z=-141.61] died, message: 'Unemployed was slain by QR_javi'
-[22Jun2025 17:08:55.216] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/796, l='ServerLevel[world]', x=-155.83, y=88.02, z=-138.55] died, message: 'Unemployed was slain by QR_javi'
-[22Jun2025 17:11:20.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=68, z=-362} BlockPos{x=-76, y=66, z=-362}
-[22Jun2025 17:11:27.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=76, z=-384} BlockPos{x=-95, y=74, z=-383}
-[22Jun2025 17:11:33.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=87, z=-391} BlockPos{x=-101, y=86, z=-393}
-[22Jun2025 17:11:33.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=87, z=-391} BlockPos{x=-101, y=86, z=-393}
-[22Jun2025 17:11:33.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=87, z=-391} BlockPos{x=-101, y=86, z=-393}
-[22Jun2025 17:11:33.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=87, z=-391} BlockPos{x=-101, y=86, z=-393}
-[22Jun2025 17:11:33.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=87, z=-391} BlockPos{x=-101, y=86, z=-393}
-[22Jun2025 17:11:35.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=89, z=-394} BlockPos{x=-107, y=88, z=-393}
-[22Jun2025 17:11:40.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-122, y=96, z=-394} BlockPos{x=-124, y=95, z=-394}
-[22Jun2025 17:11:40.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=96, z=-394} BlockPos{x=-124, y=95, z=-394}
-[22Jun2025 17:11:40.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=96, z=-394} BlockPos{x=-124, y=95, z=-394}
-[22Jun2025 17:11:40.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=96, z=-394} BlockPos{x=-124, y=95, z=-394}
-[22Jun2025 17:11:40.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=96, z=-394} BlockPos{x=-124, y=95, z=-394}
-[22Jun2025 17:11:43.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-133, y=101, z=-395} BlockPos{x=-133, y=99, z=-396}
-[22Jun2025 17:11:44.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-135, y=102, z=-397} BlockPos{x=-137, y=100, z=-397}
-[22Jun2025 17:11:44.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-135, y=102, z=-397} BlockPos{x=-137, y=100, z=-397}
-[22Jun2025 17:12:09.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-219, y=110, z=-435} BlockPos{x=-218, y=110, z=-436}
-[22Jun2025 17:12:10.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-220, y=109, z=-435} BlockPos{x=-219, y=109, z=-435}
-[22Jun2025 17:12:10.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-220, y=109, z=-435} BlockPos{x=-219, y=109, z=-435}
-[22Jun2025 17:12:10.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-221, y=109, z=-435} BlockPos{x=-219, y=109, z=-435}
-[22Jun2025 17:12:10.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-223, y=110, z=-435} BlockPos{x=-223, y=108, z=-435}
-[22Jun2025 17:12:10.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-223, y=110, z=-435} BlockPos{x=-223, y=108, z=-435}
-[22Jun2025 17:12:11.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-223, y=110, z=-435} BlockPos{x=-223, y=108, z=-435}
-[22Jun2025 17:12:11.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-224, y=108, z=-434} BlockPos{x=-223, y=108, z=-435}
-[22Jun2025 17:12:11.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-224, y=108, z=-434} BlockPos{x=-223, y=108, z=-435}
-[22Jun2025 17:12:11.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-225, y=109, z=-434} BlockPos{x=-223, y=108, z=-435}
-[22Jun2025 17:12:11.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-225, y=109, z=-434} BlockPos{x=-223, y=108, z=-435}
-[22Jun2025 17:12:11.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-227, y=109, z=-434} BlockPos{x=-227, y=107, z=-434}
-[22Jun2025 17:13:10.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-281, y=67, z=-539} BlockPos{x=-280, y=65, z=-538}
-[22Jun2025 17:13:10.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-281, y=67, z=-539} BlockPos{x=-280, y=65, z=-538}
-[22Jun2025 17:13:10.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-280, y=66, z=-540} BlockPos{x=-280, y=65, z=-538}
-[22Jun2025 17:13:10.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-280, y=66, z=-540} BlockPos{x=-280, y=65, z=-538}
-[22Jun2025 17:13:32.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
-[22Jun2025 17:14:42.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [We Need to Go Deeper]
-[22Jun2025 17:18:51.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [A Terrible Fortress]
-[22Jun2025 17:18:58.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Nightmare Fuel]
-[22Jun2025 17:19:21.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
-[22Jun2025 17:19:21.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
-[22Jun2025 17:20:12.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:47399] logged in with entity id 33713 at (-260.2517278517268, 60.0, 226.918502599991)
-[22Jun2025 17:20:12.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
-[22Jun2025 17:20:12.805] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
-[22Jun2025 17:21:02.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
-[22Jun2025 17:21:02.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [A Terrible Fortress]
-[22Jun2025 17:21:43.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Nightmare Fuel]
-[22Jun2025 17:21:53.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Into Fire]
-[22Jun2025 17:22:33.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Into Fire]
-[22Jun2025 17:23:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Take Aim]
-[22Jun2025 17:28:12.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
-[22Jun2025 17:28:16.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi was doomed to fall by bosque41
-[22Jun2025 17:28:16.958] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
-[22Jun2025 17:28:29.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
-[22Jun2025 17:28:44.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi lost connection: Disconnected
-[22Jun2025 17:28:44.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi left the game
-[22Jun2025 17:31:16.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:40271] logged in with entity id 37328 at (-140.56778948624466, 68.0, 269.87394158677023)
-[22Jun2025 17:31:16.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 17:31:16.693] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 17:31:21.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 17:31:21.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 17:32:24.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: QR_javi[/127.171.215.89:34999] logged in with entity id 37922 at (6.440942285491771, 68.0, 33.90968127243819)
-[22Jun2025 17:32:24.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi joined the game
-[22Jun2025 17:32:24.623] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
-[22Jun2025 17:36:22.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [What a Deal!]
-[22Jun2025 17:44:29.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:39041] logged in with entity id 43338 at (-140.56778948624466, 68.0, 269.87394158677023)
-[22Jun2025 17:44:29.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 17:44:29.153] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 17:44:49.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=252, y=65, z=143} BlockPos{x=253, y=63, z=143}
-[22Jun2025 17:44:55.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=271, y=64, z=143} BlockPos{x=273, y=62, z=143}
-[22Jun2025 17:44:55.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=271, y=64, z=143} BlockPos{x=273, y=62, z=143}
-[22Jun2025 17:45:10.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=318, y=66, z=144} BlockPos{x=318, y=64, z=144}
-[22Jun2025 17:46:23.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=507, y=68, z=84} BlockPos{x=507, y=66, z=86}
-[22Jun2025 17:46:28.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=534, y=68, z=69} BlockPos{x=533, y=66, z=70}
-[22Jun2025 17:46:28.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=535, y=68, z=69} BlockPos{x=533, y=66, z=70}
-[22Jun2025 17:46:28.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=535, y=68, z=69} BlockPos{x=533, y=66, z=70}
-[22Jun2025 17:46:28.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=535, y=68, z=69} BlockPos{x=533, y=66, z=70}
-[22Jun2025 17:46:28.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=536, y=67, z=70} BlockPos{x=533, y=66, z=70}
-[22Jun2025 17:46:29.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=68, z=66} BlockPos{x=544, y=66, z=65}
-[22Jun2025 17:46:29.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=68, z=66} BlockPos{x=544, y=66, z=65}
-[22Jun2025 17:46:29.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=68, z=66} BlockPos{x=544, y=66, z=65}
-[22Jun2025 17:46:29.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=68, z=66} BlockPos{x=544, y=66, z=65}
-[22Jun2025 17:46:31.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=556, y=69, z=62} BlockPos{x=554, y=66, z=61}
-[22Jun2025 17:46:31.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=556, y=69, z=62} BlockPos{x=554, y=66, z=61}
-[22Jun2025 17:46:38.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=575, y=64, z=36} BlockPos{x=576, y=62, z=36}
-[22Jun2025 17:51:29.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[22Jun2025 17:51:50.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[22Jun2025 17:52:07.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
-[22Jun2025 17:52:29.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[22Jun2025 17:52:40.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has completed the challenge [The broken Nether's warmachine]
-[22Jun2025 17:52:53.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[22Jun2025 17:53:23.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[22Jun2025 17:53:41.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3016ms or 60 ticks behind
-[22Jun2025 17:53:59.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3056ms or 61 ticks behind
-[22Jun2025 17:54:18.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[22Jun2025 17:54:35.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
-[22Jun2025 17:54:55.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4652ms or 93 ticks behind
-[22Jun2025 17:55:15.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5362ms or 107 ticks behind
-[22Jun2025 17:55:33.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
-[22Jun2025 17:56:22.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
-[22Jun2025 17:56:29.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
-[22Jun2025 17:56:39.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[22Jun2025 17:56:43.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Hidden in the Depths]
-[22Jun2025 17:56:59.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported 3 entities to bosque41]
-[22Jun2025 17:57:00.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [The Soul Forge]
-[22Jun2025 17:57:16.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Hidden in the Depths]
-[22Jun2025 17:57:16.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=36, z=25} BlockPos{x=106, y=35, z=25}
-[22Jun2025 17:57:26.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Hidden in the Depths]
-[22Jun2025 17:59:04.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
-[22Jun2025 17:59:33.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Best Friends Forever]
-[22Jun2025 18:00:03.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 18:00:03.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 18:00:06.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:41359] logged in with entity id 53437 at (105.74314453407882, 35.5, 22.04909405277301)
-[22Jun2025 18:00:06.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 18:00:06.928] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 18:00:41.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 18:00:41.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 18:00:44.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:54105] logged in with entity id 53596 at (105.62309592256564, 35.5, 22.189300889991724)
-[22Jun2025 18:00:44.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 18:00:44.761] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 18:00:50.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 18:00:50.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 18:01:37.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
-[22Jun2025 18:01:50.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported bosque41 to bosque41]
-[22Jun2025 18:01:56.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
-[22Jun2025 18:03:17.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:59117] logged in with entity id 55084 at (106.28063106995515, 35.5, 21.641408871583938)
-[22Jun2025 18:03:17.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 18:03:17.468] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 18:05:36.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 18:05:36.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 18:14:51.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:41203] logged in with entity id 63576 at (316.40190028899246, 63.0, 173.25243205967536)
-[22Jun2025 18:14:51.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 18:14:51.570] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 18:15:38.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
-[22Jun2025 18:15:57.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3473ms or 69 ticks behind
-[22Jun2025 18:16:06.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=71, z=366} BlockPos{x=-99, y=70, z=366}
-[22Jun2025 18:16:06.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=71, z=366} BlockPos{x=-99, y=70, z=366}
-[22Jun2025 18:16:06.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=71, z=366} BlockPos{x=-99, y=70, z=366}
-[22Jun2025 18:37:59.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[22Jun2025 18:38:16.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[22Jun2025 18:38:33.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
-[22Jun2025 18:38:50.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[22Jun2025 18:39:08.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
-[22Jun2025 18:39:28.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[22Jun2025 18:39:47.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3334ms or 66 ticks behind
-[22Jun2025 18:40:05.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3505ms or 70 ticks behind
-[22Jun2025 18:40:24.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3557ms or 71 ticks behind
-[22Jun2025 18:40:30.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 moved too quickly! -0.7361801645349146,-10.211208613991445,0.8853902783329204
-[22Jun2025 18:40:47.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8560ms or 171 ticks behind
-[22Jun2025 18:41:07.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4792ms or 95 ticks behind
-[22Jun2025 18:41:26.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4143ms or 82 ticks behind
-[22Jun2025 18:41:45.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4351ms or 87 ticks behind
-[22Jun2025 18:42:04.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3621ms or 72 ticks behind
-[22Jun2025 18:42:22.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2603ms or 52 ticks behind
-[22Jun2025 18:42:35.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Nightmare Fuel]
-[22Jun2025 18:42:39.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
-[22Jun2025 18:43:06.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[22Jun2025 18:43:40.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[22Jun2025 18:44:15.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[22Jun2025 18:45:02.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[22Jun2025 18:45:34.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[22Jun2025 18:45:58.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[22Jun2025 18:46:18.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5061ms or 101 ticks behind
-[22Jun2025 18:46:37.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3596ms or 71 ticks behind
-[22Jun2025 18:46:54.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
-[22Jun2025 18:48:00.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[22Jun2025 18:48:15.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Eye Spy]
-[22Jun2025 18:48:25.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[22Jun2025 18:48:51.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[22Jun2025 18:49:19.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[22Jun2025 18:50:41.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[22Jun2025 18:51:37.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[22Jun2025 18:52:04.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> -d a=d[ a
-[22Jun2025 18:52:56.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
-[22Jun2025 18:53:02.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 was slain by Hoglin
-[22Jun2025 18:53:02.951] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
-[22Jun2025 18:53:31.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set geovany577's game mode to Spectator Mode]
-[22Jun2025 18:53:50.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set geovany577's game mode to Adventure Mode]
-[22Jun2025 18:53:55.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
-[22Jun2025 18:54:11.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set geovany577's game mode to Spectator Mode]
-[22Jun2025 18:55:48.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Those Were the Days]
-[22Jun2025 18:56:24.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set geovany577's game mode to Adventure Mode]
-[22Jun2025 18:56:33.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
-[22Jun2025 18:56:57.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set geovany577's game mode to Survival Mode]
-[22Jun2025 18:57:02.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
-[22Jun2025 18:57:17.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
-[22Jun2025 18:57:33.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
-[22Jun2025 18:58:46.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [It Belongs in a Museum]
-[22Jun2025 18:59:05.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[22Jun2025 18:59:22.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
-[22Jun2025 18:59:27.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi was shot by Skeleton
-[22Jun2025 18:59:27.559] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
-[22Jun2025 19:00:41.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Quite the Renovation]
-[22Jun2025 19:01:27.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 19:01:27.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 19:02:47.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
-[22Jun2025 19:03:46.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
-[22Jun2025 19:04:00.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Chest Slayer]
-[22Jun2025 19:04:53.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:37559] logged in with entity id 97014 at (408.4506853379138, 63.0, -707.0534451296751)
-[22Jun2025 19:04:53.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 19:04:53.103] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 19:07:21.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported bosque41 to geovany577]
-[22Jun2025 19:07:36.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 tried to swim in lava
-[22Jun2025 19:07:36.121] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
-[22Jun2025 19:07:44.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
-[22Jun2025 19:08:53.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=621, y=71, z=-441} BlockPos{x=623, y=71, z=-442}
-[22Jun2025 19:08:53.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=621, y=71, z=-441} BlockPos{x=623, y=71, z=-442}
-[22Jun2025 19:08:53.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=621, y=71, z=-441} BlockPos{x=623, y=71, z=-442}
-[22Jun2025 19:08:53.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=621, y=71, z=-441} BlockPos{x=623, y=71, z=-442}
-[22Jun2025 19:08:53.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=621, y=71, z=-441} BlockPos{x=623, y=71, z=-442}
-[22Jun2025 19:10:57.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> [x:653, y:70, z:-123, dim:minecraft:the_nether]
-[22Jun2025 19:11:26.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=694, y=87, z=-237} BlockPos{x=694, y=85, z=-236}
-[22Jun2025 19:11:31.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
-[22Jun2025 19:11:31.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
-[22Jun2025 19:11:35.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:60801] logged in with entity id 101251 at (694.3000000119209, 86.0, -221.64679679575156)
-[22Jun2025 19:11:35.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
-[22Jun2025 19:11:35.384] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
-[22Jun2025 19:12:01.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 19:12:01.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 19:12:15.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:47425] logged in with entity id 101382 at (668.0479531177554, 66.0, -126.62605739920075)
-[22Jun2025 19:12:15.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 19:12:15.416] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 19:19:00.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 19:19:00.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 19:19:17.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
-[22Jun2025 19:19:17.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
-[22Jun2025 19:19:48.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[22Jun2025 19:19:48.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: backup<--[HERE]
-[22Jun2025 19:19:54.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:46699] logged in with entity id 101997 at (642.0838591804297, 65.0, -117.43589256768708)
-[22Jun2025 19:19:54.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
-[22Jun2025 19:19:54.373] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
-[22Jun2025 19:20:03.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[22Jun2025 19:20:03.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save<--[HERE]
-[22Jun2025 19:20:11.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Saved the game]
-[22Jun2025 19:25:13.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:56017] logged in with entity id 103311 at (689.6999999880791, 68.0, -141.69999998807907)
-[22Jun2025 19:25:13.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 19:25:13.931] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 19:32:08.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Amateur Archaeologist]
-[22Jun2025 19:41:47.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported bosque41 to geovany577]
-[22Jun2025 19:45:21.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Creative Mode]
-[22Jun2025 19:45:32.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
-[22Jun2025 19:45:36.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has reached the goal [Bone Crusher]
-[22Jun2025 19:48:24.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Alex's Caves]
-[22Jun2025 19:48:30.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Once Upon a Cave]
-[22Jun2025 19:48:35.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [It Belongs in a Museum]
-[22Jun2025 19:50:20.814] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/109363, l='ServerLevel[world]', x=-142.53, y=63.15, z=305.70] died, message: 'Unemployed was slain by Zombie'
-[22Jun2025 19:50:35.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/109362, l='ServerLevel[world]', x=-142.38, y=63.14, z=305.70] died, message: 'Unemployed was slain by Zombie'
-[22Jun2025 19:50:50.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/109360, l='ServerLevel[world]', x=-141.72, y=63.07, z=305.70] died, message: 'Unemployed was slain by Zombie'
-[22Jun2025 19:57:43.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosque41> [x:383, y:33, z:1376, dim:minecraft:overworld]
-[22Jun2025 20:03:08.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Chattering Teeth]
-[22Jun2025 20:03:20.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[22Jun2025 20:08:26.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[22Jun2025 20:08:37.713] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
-[22Jun2025 20:08:37.715] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
-[22Jun2025 20:08:37.715] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
-[22Jun2025 20:08:37.715] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
-[22Jun2025 20:08:38.164] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
-[22Jun2025 20:08:38.165] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
-[22Jun2025 20:08:38.165] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
-[22Jun2025 20:08:38.165] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
-[22Jun2025 20:08:38.165] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
-[22Jun2025 20:08:38.166] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
-[22Jun2025 20:08:38.166] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
-[22Jun2025 20:08:42.535] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
-[22Jun2025 20:08:42.536] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
-[22Jun2025 20:08:42.536] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
-[22Jun2025 20:08:42.536] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
-[22Jun2025 20:08:42.591] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
-[22Jun2025 20:08:42.591] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
-[22Jun2025 20:08:42.592] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
-[22Jun2025 20:08:42.592] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
-[22Jun2025 20:08:42.592] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
-[22Jun2025 20:08:43.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
-[22Jun2025 20:09:01.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2412ms or 48 ticks behind
-[22Jun2025 20:09:19.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3347ms or 66 ticks behind
-[22Jun2025 20:09:37.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3244ms or 64 ticks behind
-[22Jun2025 20:09:54.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[22Jun2025 20:10:11.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[22Jun2025 20:10:43.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[22Jun2025 20:11:18.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[22Jun2025 20:11:35.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[22Jun2025 20:11:52.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
-[22Jun2025 20:12:07.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 moved too quickly! 6.2695459860824485,-1.4983999884128565,-7.721032243419415
-[22Jun2025 20:12:08.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Chest Slayer]
-[22Jun2025 20:12:10.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3443ms or 68 ticks behind
-[22Jun2025 20:12:28.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
-[22Jun2025 20:12:53.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[22Jun2025 20:13:10.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[22Jun2025 20:13:28.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
-[22Jun2025 20:13:47.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3773ms or 75 ticks behind
-[22Jun2025 20:14:04.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
-[22Jun2025 20:14:23.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[22Jun2025 20:14:40.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[22Jun2025 20:14:57.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
-[22Jun2025 20:17:17.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 20:17:17.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 20:17:22.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:60931] logged in with entity id 136364 at (-146.94046281247785, 70.0, 333.02859830171553)
-[22Jun2025 20:17:22.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 20:17:22.663] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 20:17:36.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 20:17:36.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 20:19:51.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported QR_javi to bosque41]
-[22Jun2025 20:19:52.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:58871] logged in with entity id 137119 at (-152.99540769058152, 70.0, 330.89179617858684)
-[22Jun2025 20:19:52.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 20:19:52.284] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 20:19:52.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Eye Spy]
-[22Jun2025 20:20:05.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
-[22Jun2025 20:20:05.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Eye Spy]
-[22Jun2025 20:23:24.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
-[22Jun2025 20:23:24.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
-[22Jun2025 20:23:56.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:37593] logged in with entity id 139180 at (-131.29934864892283, 69.16610926093821, 283.0187536521088)
-[22Jun2025 20:23:56.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
-[22Jun2025 20:23:57.030] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
-[22Jun2025 20:25:43.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [The End?]
-[22Jun2025 20:25:43.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi moved too quickly! -275.1252341500604,12.469036457342085,-1376.3145467118281
-[22Jun2025 20:25:43.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [The End?]
-[22Jun2025 20:25:43.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [The End?]
-[22Jun2025 20:25:44.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 moved too quickly! -276.75863712289464,12.392604549951344,-1376.6317904669313
-[22Jun2025 20:25:45.547] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
-[22Jun2025 20:25:45.547] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
-[22Jun2025 20:25:46.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
-[22Jun2025 20:30:41.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Free the End]
-[22Jun2025 20:31:08.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 was slain by bosque41
-[22Jun2025 20:31:08.452] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
-[22Jun2025 20:31:25.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 20:31:25.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 20:33:17.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [Discreet Search]
-[22Jun2025 20:33:41.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:32947] logged in with entity id 141146 at (101.40587263208674, 49.0, -0.7449017184671507)
-[22Jun2025 20:33:41.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 20:33:41.124] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 20:33:48.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Remote Getaway]
-[22Jun2025 20:36:39.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Remote Getaway]
-[22Jun2025 20:36:47.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Remote Getaway]
-[22Jun2025 20:37:34.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 was kicked for floating too long!
-[22Jun2025 20:37:34.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Flying is not enabled on this server
-[22Jun2025 20:37:34.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
-[22Jun2025 20:37:56.040] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@432cace4[id=<null>,name=bosque41,properties={},legacy=false] (/127.128.85.190:36089) lost connection: Disconnected
-[22Jun2025 20:38:01.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:38861] logged in with entity id 141980 at (-55.63358940601045, -83.07005326646139, -1083.663663414341)
-[22Jun2025 20:38:01.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
-[22Jun2025 20:38:01.844] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
-[22Jun2025 20:38:03.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 fell out of the world
-[22Jun2025 20:38:03.867] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 20:38:06.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
-[22Jun2025 20:38:06.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
-[22Jun2025 20:38:56.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 20:38:56.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 20:39:11.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:50885] logged in with entity id 142426 at (-140.785345358198, -70.60433171130606, -1560.034708984678)
-[22Jun2025 20:39:11.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 20:39:11.172] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 20:39:12.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 fell out of the world
-[22Jun2025 20:39:12.332] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
-[22Jun2025 20:39:13.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 moved too quickly! 0.0,-20.174084933611766,0.0
-[22Jun2025 20:39:26.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [The Most Useful Key]
-[22Jun2025 20:39:29.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:56939] logged in with entity id 142858 at (-55.63358940601045, -209.87856030820564, -1083.663663414341)
-[22Jun2025 20:39:29.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
-[22Jun2025 20:39:29.312] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
-[22Jun2025 20:39:59.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [The Most Useful Key]
-[22Jun2025 20:40:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has reached the goal [A Fast Comeback]
-[22Jun2025 20:40:05.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [A Fast Comeback]
-[22Jun2025 20:40:12.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 20:40:12.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 20:42:18.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [The City at the End of the Game]
-[22Jun2025 20:43:03.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:50471] logged in with entity id 144256 at (-166.96525742236074, 57.0, -1562.9983569237347)
-[22Jun2025 20:43:03.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 20:43:03.082] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 20:44:05.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Local Brewery]
-[22Jun2025 20:44:32.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [Sky's the Limit]
-[22Jun2025 20:48:29.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 20:48:29.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 20:49:24.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi lost connection: Disconnected
-[22Jun2025 20:49:24.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi left the game
-[22Jun2025 20:50:17.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:43799] logged in with entity id 148330 at (1018.7360565386339, 64.0, -1845.8760695317187)
-[22Jun2025 20:50:17.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 20:50:17.613] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 20:51:52.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [The City at the End of the Game]
-[22Jun2025 20:52:07.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has reached the goal [Sky's the Limit]
-[22Jun2025 20:52:18.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Cover Me with Diamonds]
-[22Jun2025 20:54:07.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Spectator Mode]
-[22Jun2025 20:55:41.143] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1474, y=19, z=299}
-[22Jun2025 20:55:41.143] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1475, y=17, z=299}
-[22Jun2025 20:55:41.143] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1477, y=19, z=299}
-[22Jun2025 20:55:41.144] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1482, y=17, z=299}
-[22Jun2025 20:55:41.144] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1481, y=17, z=299}
-[22Jun2025 20:55:41.144] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=301}
-[22Jun2025 20:55:41.144] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=309}
-[22Jun2025 20:55:41.144] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=19, z=306}
-[22Jun2025 20:55:41.145] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=305}
-[22Jun2025 20:55:44.650] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=18, z=314}
-[22Jun2025 20:55:44.650] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=317}
-[22Jun2025 20:55:44.650] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=16, z=316}
-[22Jun2025 20:55:44.650] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1466, y=18, z=323}
-[22Jun2025 20:55:44.650] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1467, y=16, z=323}
-[22Jun2025 20:55:44.650] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1460, y=16, z=323}
-[22Jun2025 20:55:44.651] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=321}
-[22Jun2025 20:55:48.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Three Little Birds]
-[22Jun2025 20:55:54.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Set own game mode to Survival Mode]
-[22Jun2025 20:56:07.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was blown up by bosque41
-[22Jun2025 20:56:08.002] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 20:56:44.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
-[22Jun2025 20:56:44.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has made the advancement [Three Little Birds]
-[22Jun2025 20:57:05.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 was killed by magic whilst trying to escape Skeleton
-[22Jun2025 20:57:05.042] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
-[22Jun2025 20:57:24.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
-[22Jun2025 20:57:35.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
-[22Jun2025 20:57:35.593] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 20:58:36.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 20:58:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 20:59:31.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has reached the goal [Fortuitous Militia]
-[22Jun2025 21:00:24.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
-[22Jun2025 21:00:24.742] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 21:00:52.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
-[22Jun2025 21:00:52.892] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 21:01:40.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
-[22Jun2025 21:01:40.395] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 21:02:59.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geovany577[/127.188.201.135:43345] logged in with entity id 154695 at (-2801.300000011921, 72.0, -5744.580802645655)
-[22Jun2025 21:02:59.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 joined the game
-[22Jun2025 21:02:59.590] [Server thread/INFO] [Jade/]: Syncing config to geovany577 (c2ebc9fb-3f28-3dce-84b3-2680cb55adf4)
-[22Jun2025 21:03:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
-[22Jun2025 21:03:43.999] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 21:05:47.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
-[22Jun2025 21:05:47.542] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 21:06:31.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
-[22Jun2025 21:06:31.393] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 21:07:36.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
-[22Jun2025 21:07:36.742] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 21:08:28.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 has made the advancement [Where Is The Stone Pen?]
-[22Jun2025 21:08:43.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 was killed by magic whilst trying to escape Skeleton
-[22Jun2025 21:08:43.592] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
-[22Jun2025 21:08:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
-[22Jun2025 21:08:51.342] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 21:09:08.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
-[22Jun2025 21:09:14.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was slain by Skeleton
-[22Jun2025 21:09:14.593] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 21:09:40.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 has reached the goal [Chain Death]
-[22Jun2025 21:09:40.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 was killed by magic whilst trying to escape Skeleton
-[22Jun2025 21:09:40.544] [Server thread/INFO] [tombstone/]: The player geovany577 has successfully been saved
-[22Jun2025 21:10:33.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was burnt to a crisp whilst fighting Skeleton
-[22Jun2025 21:10:34.000] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 21:10:57.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 was kicked for floating too long!
-[22Jun2025 21:10:57.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Flying is not enabled on this server
-[22Jun2025 21:10:57.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
-[22Jun2025 21:11:06.586] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2eaaf414[id=<null>,name=bosque41,properties={},legacy=false] (/127.128.85.190:36567) lost connection: Disconnected
-[22Jun2025 21:11:11.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosque41[/127.128.85.190:39771] logged in with entity id 158746 at (-2766.1199489093456, 79.14998983419157, -5754.008836620536)
-[22Jun2025 21:11:11.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 joined the game
-[22Jun2025 21:11:11.921] [Server thread/INFO] [Jade/]: Syncing config to bosque41 (4b899083-8da2-3d62-9c58-60f67b2a601d)
-[22Jun2025 21:11:45.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosque41: Teleported geovany577 to bosque41]
-[22Jun2025 21:12:24.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 was killed by magic whilst trying to escape Skeleton
-[22Jun2025 21:12:24.496] [Server thread/INFO] [tombstone/]: The player bosque41 has successfully been saved
-[22Jun2025 21:14:11.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 moved too quickly! -9.958891826927356,1.252203340253729,1.503045163070965
-[22Jun2025 21:14:11.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5449ms or 108 ticks behind
-[22Jun2025 21:14:33.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geovany577 lost connection: Disconnected
-[22Jun2025 21:14:33.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geovany577 left the game
-[22Jun2025 21:14:41.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosque41 lost connection: Disconnected
-[22Jun2025 21:14:41.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosque41 left the game
+[23Jun2025 07:34:25.772] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[23Jun2025 07:34:25.799] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[23Jun2025 07:34:25.807] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[23Jun2025 07:34:25.829] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[23Jun2025 07:34:25.830] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[23Jun2025 07:34:25.836] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[23Jun2025 07:34:25.846] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[23Jun2025 07:34:25.860] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[23Jun2025 07:34:25.882] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[23Jun2025 07:34:25.885] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[23Jun2025 07:34:25.887] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[23Jun2025 07:34:25.892] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[23Jun2025 07:34:25.897] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
+[23Jun2025 07:34:25.963] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[23Jun2025 07:34:26.084] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3797 advancements
+[23Jun2025 07:34:26.092] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[23Jun2025 07:34:26.096] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[23Jun2025 07:34:26.117] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[23Jun2025 07:34:26.125] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[23Jun2025 07:34:26.133] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[23Jun2025 07:34:26.145] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[23Jun2025 07:34:29.809] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[23Jun2025 07:34:29.849] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[23Jun2025 07:34:30.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[23Jun2025 07:34:30.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Jun2025 07:34:30.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Jun2025 07:34:30.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Jun2025 07:34:30.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Jun2025 07:34:30.259] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[23Jun2025 07:34:30.337] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Jun2025 07:34:30.337] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Jun2025 07:34:30.337] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Jun2025 07:34:30.338] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Jun2025 07:34:30.354] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[23Jun2025 07:34:30.355] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[23Jun2025 07:34:30.356] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[23Jun2025 07:34:30.577] [Server thread/INFO] [Framework/]: Loading server configs...
+[23Jun2025 07:34:30.592] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[23Jun2025 07:34:31.005] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[23Jun2025 07:34:31.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Jun2025 07:34:38.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Jun2025 07:34:41.129] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[23Jun2025 07:34:42.154] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 07:34:42.185] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 07:34:42.202] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 07:34:42.266] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 07:34:42.279] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 07:34:42.302] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 07:34:42.316] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 07:34:42.373] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 07:34:42.385] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 07:34:42.595] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 07:34:43.286] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 07:34:43.595] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 07:34:44.095] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jun2025 07:34:44.594] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[23Jun2025 07:34:45.035] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6941 ms
+[23Jun2025 07:34:45.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.685s)! For help, type "help"
+[23Jun2025 07:34:45.090] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Jun2025 07:35:50.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: QR_javi[/127.171.215.89:35289] logged in with entity id 871 at (-1179.879057529848, 57.0, -110.38186908985783)
+[23Jun2025 07:35:50.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi joined the game
+[23Jun2025 07:35:50.708] [Server thread/INFO] [Jade/]: Syncing config to QR_javi (ee02d960-0044-3a0b-9ea5-26bc773f2580)
+[23Jun2025 07:49:00.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi lost connection: Disconnected
+[23Jun2025 07:49:00.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi left the game
