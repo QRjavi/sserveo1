@@ -173,3 +173,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jun2025 16:53:08.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [A Ruined Citadel]
 [23Jun2025 16:53:57.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [The City at the End of the Game]
 [23Jun2025 16:56:33.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has reached the goal [Sky's the Limit]
+[23Jun2025 17:20:04.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Ender Distancing]
+[23Jun2025 17:20:08.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi has made the advancement [Race Against The Clock]
+[23Jun2025 17:30:08.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QR_javi was killed by magic
+[23Jun2025 17:30:08.889] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
+[23Jun2025 17:35:38.623] [Server thread/INFO] [tombstone/]: The player QR_javi has successfully been saved
+[23Jun2025 17:35:38.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QR_javi moved too quickly! -15.239734906070112,4.0,-10.090631955425067
